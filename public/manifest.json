@@ -2,7 +2,7 @@
   "short_name": "Bibliquiz",
   "scope": "/Bibliquiz",
   "start_url": "/Bibliquiz",
-  "name": "Create React App Sample",
+  "name": "Bibliquiz",
   "icons": [
     {
       "src": "favicon.ico",
