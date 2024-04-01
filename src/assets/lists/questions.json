@@ -401,7 +401,7 @@
     },
     {
         "question": "Quelle ville n’a pas besoin du soleil pour l’éclairer ?",
-        "response": "Révélations 21:23"
+        "response": "Apocalypse 21:23"
     },
     {
         "question": "Quel roi d’Israël pratiquait les enchantements et la magie ?",
@@ -497,7 +497,7 @@
     },
     {
         "question": "Quels sont les anges dont on connaît les noms dans le Nouveau Testament ?",
-        "response": "Luc 1:19 ; Jude 9 ; Révélations 9:11"
+        "response": "Luc 1:19 ; Jude 9 ; Apocalypse 9:11"
     },
     {
         "question": "Qui est décrit comme premier chambellan ?",
@@ -560,7 +560,7 @@
         "response": "Ézéchiel 28:13 ; 31:9"
     },
     {
-        "question": "Qui voyait la plaine du Jourdain comme le jardin de Jéhovah ?",
+        "question": "Qui voyait la plaine du Jourdain comme le jardin de l’Éternel ?",
         "response": "Genèse 13:10"
     },
     {
@@ -644,7 +644,7 @@
         "response": "Zacharie 2:12"
     },
     {
-        "question": "Quelle ville a pour nom «Jéhovah est là» ?",
+        "question": "Quelle ville a pour nom «l’Éternel est là» ?",
         "response": "Ézéchiel 48:35"
     },
     {
@@ -669,7 +669,7 @@
     },
     {
         "question": "Qui accuse les chrétiens devant Dieu ?",
-        "response": "Révélations 12:10"
+        "response": "Apocalypse 12:10"
     },
     {
         "question": "Où la Bible parle-t-elle du processus de fabrication du beurre ?",
@@ -689,7 +689,7 @@
     },
     {
         "question": "Où est-il parlé d’une armée de deux cents millions de cavaliers ?",
-        "response": "Révélations 9:16"
+        "response": "Apocalypse 9:16"
     },
     {
         "question": "Quelles sont les quatre personnes qui échappèrent à leurs poursuivants en passant par des fenêtres ?",
@@ -773,1635 +773,1635 @@
     },
     {
         "question": "Qui écrivait sa lettre avec du papier et de l’encre ?",
-        "response": "Luc 1:63"
+        "response": "2 Jean 11"
     },
     {
         "question": "Qui demanda des tablettes pour écrire ?",
-        "response": "Jérémie 36:18"
+        "response": "Luc 1:63"
     },
     {
         "question": "Qui écrivit les paroles d’un prophète «avec de l’encre» dans un livre ?",
-        "response": "Romains 16:22"
+        "response": "Jérémie 36:18"
     },
     {
         "question": "Qui a écrit une lettre dictée par un apôtre ?",
-        "response": "1 Samuel 24:3-7"
+        "response": "Romains 16:22"
     },
     {
         "question": "Qui épargna la vie de son pire ennemi dans une caverne ?",
-        "response": "2 Rois 9:30"
+        "response": "1 Samuel 24:3-7"
     },
     {
         "question": "Quelle est la veuve qui se farda ?",
-        "response": "Révélations 17:4 & 18:7"
+        "response": "2 Rois 9:30"
     },
     {
         "question": "Citer une veuve habillée très richement.",
-        "response": "Jérémie 37:21"
+        "response": "Apocalypse 17:4 & 18:7"
     },
     {
         "question": "À quel prophète fut donnée une ration d’un pain par jour de la rue des boulangers ?",
-        "response": "1 Samuel 10:23 ; Deutéronome 3:11"
+        "response": "Jérémie 37:21"
     },
     {
         "question": "Citer deux rois exceptionnellement grands.",
-        "response": "Genèse 49:31 ; 50:13"
+        "response": "1 Samuel 10:23 ; Deutéronome 3:11"
     },
     {
         "question": "Dans quel sépulcre y a-t-il ensemble un père, son fils et son petit-fils, ainsi que leurs femmes ?",
-        "response": "Ésaïe 1:25 ; Jérémie 2:22 ; Malachie 3:2"
+        "response": "Genèse 49:31 ; 50:13"
     },
     {
         "question": "Quels sont les trois prophètes qui mentionnent la potasse ?",
-        "response": "Proverbes 25:20"
+        "response": "Ésaïe 1:25 ; Jérémie 2:22 ; Malachie 3:2"
     },
     {
         "question": "Où est-ce que la Bible parle d’un «jour de froid» ?",
-        "response": "2 Rois 2:22 ; Sophonie 1:10"
+        "response": "Proverbes 25:20"
     },
     {
         "question": "Quelle est la ville dont son «second quartier» est mentionné ?",
-        "response": "Amos 7:7"
+        "response": "2 Rois 2:22 ; Sophonie 1:10"
     },
     {
         "question": "Qui vit une vision où le Seigneur tenait un plomb à sa main ?",
-        "response": "Luc 19:4"
+        "response": "Amos 7:7"
     },
     {
         "question": "Citer une personne ayant grimpé à un arbre.",
-        "response": "2 Chroniques 13:21"
+        "response": "Luc 19:4"
     },
     {
         "question": "De quel roi peut-on lire qu’il s’est marié à quatorze femmes ?",
-        "response": "2 Samuel 20:22"
+        "response": "2 Chroniques 13:21"
     },
     {
         "question": "Quand est-ce que la tête d’un chef rebelle fut coupée et jetée par-dessus la muraille de la ville assiégée ?",
-        "response": "1 Rois 21:20"
+        "response": "2 Samuel 20:22"
     },
     {
         "question": "Qui appela un prophète « son ennemi » ?",
-        "response": "Genèse 26:8"
+        "response": "1 Rois 21:20"
     },
     {
         "question": "Où est-il écrit qu’un roi regarda par la fenêtre ?",
-        "response": "2 Rois 1:2"
+        "response": "Genèse 26:8"
     },
     {
         "question": "Quel roi tomba par une fenêtre ?",
-        "response": "Juges 5:28"
+        "response": "2 Rois 1:2"
     },
     {
         "question": "Où est-il écrit qu’une mère de général regarda par la fenêtre ?",
-        "response": "2 Rois 13:17"
+        "response": "Juges 5:28"
     },
     {
         "question": "Quel roi ouvrit une fenêtre à la requête d’un prophète ?",
-        "response": "Luc 22:62 ; Philippiens 3:18 ; Révélations 5:4"
+        "response": "2 Rois 13:17"
     },
     {
         "question": "Quels sont les apôtres ayant pleuré ?",
-        "response": "Ézéchiel 32:2"
+        "response": "Luc 22:62 ; Philippiens 3:18 ; Apocalypse 5:4"
     },
     {
         "question": "Quel prophète compare le roi d’Égypte à «un monstre dans les eaux» ?",
-        "response": "1 Samuel 26:7"
+        "response": "Ézéchiel 32:2"
     },
     {
         "question": "Quand est-ce qu’un roi fut trouvé dormant, sa lance fichée à terre à son chevet ?",
-        "response": "Juges 8:24-26"
+        "response": "1 Samuel 26:7"
     },
     {
         "question": "Quand est-ce qu’un capitaine victorieux accepta de ses soldats un trophée consistant en anneaux d’or ?",
-        "response": "2 Chroniques 35:23-24 ; 1 Rois 22:34"
+        "response": "Juges 8:24-26"
     },
     {
         "question": "Quels sont les deux rois tués sur leur char par un flèche tirée au hasard ?",
-        "response": "1 Rois 22:38"
+        "response": "2 Chroniques 35:23-24 ; 1 Rois 22:34"
     },
     {
         "question": "Où voit-on laver un chariot taché de sang ?",
-        "response": "Josué 9:3-6"
+        "response": "1 Rois 22:38"
     },
     {
         "question": "Quels envoyés se déguisèrent avec de vieux habits ?",
-        "response": "1 Rois 13:21"
+        "response": "Josué 9:3-6"
     },
     {
         "question": "Quand est-ce qu’un cadavre reprit vie en touchant les os d’un prophète ?",
-        "response": "Lamentations de Jérémie 5:4"
+        "response": "1 Rois 13:21"
     },
     {
         "question": "Quel prophète fait allusion au prix de l’eau ?",
-        "response": "Actes 17:18"
+        "response": "Lamentations de Jérémie 5:4"
     },
     {
         "question": "Où est-ce que des philosophes discutaient sur la place publique ?",
-        "response": "Révélations 6:6"
+        "response": "Actes 17:18"
     },
     {
         "question": "Quand est-ce que le blé sera cher et le vin ne le sera pas ?",
-        "response": "Nahum 3:2"
+        "response": "Apocalypse 6:6"
     },
     {
         "question": "Quel prophète parle du fracas des roues ?",
-        "response": "Genèse 43:11"
+        "response": "Nahum 3:2"
     },
     {
         "question": "Quand est-ce qu’un présent consista de baume, de miel, de myrrhe, de pistaches et d’amandes ?",
-        "response": "Esther 2:5-7,17"
+        "response": "Genèse 43:11"
     },
     {
         "question": "Quand est-ce qu’une jeune fille orpheline devint reine ?",
-        "response": "Jérémie 8:22"
+        "response": "Esther 2:5-7,17"
     },
     {
         "question": "Où n’y avait-il plus ni baume ni médecin ?",
-        "response": "2 Chroniques 16:12"
+        "response": "Jérémie 8:22"
     },
     {
         "question": "Quel est le malade qui ne se contentait pas de voir un seul médecin ?",
-        "response": "Ézéchiel 31:9"
+        "response": "2 Chroniques 16:12"
     },
     {
         "question": "De qui est-il écrit que les arbres du jardin d’Eden étaient envieux de lui ?",
-        "response": "Nombres 7:3"
+        "response": "Ézéchiel 31:9"
     },
     {
         "question": "Quels princes apportèrent six chariots couverts et douze bœufs, en offrande à Dieu ?",
-        "response": "Actes 21:40"
+        "response": "Nombres 7:3"
     },
     {
         "question": "Quand est-ce qu’un sermon fut prêché sur des escaliers ?",
-        "response": "Job 4:13-16"
+        "response": "Actes 21:40"
     },
     {
         "question": "Qui fut terrifié par une apparition dans la nuit sans la reconnaître ?",
-        "response": "Genèse 22:21"
+        "response": "Job 4:13-16"
     },
     {
         "question": "Qui étaient Uts et Buz ?",
-        "response": "Matthieu 16:3 ; Luc 12:56"
+        "response": "Genèse 22:21"
     },
     {
         "question": "Quels hypocrites étaient capables de discerner l’apparence du ciel ?",
-        "response": "1 Chroniques 10:6,12"
+        "response": "Matthieu 16:3 ; Luc 12:56"
     },
     {
         "question": "Quel roi et ses trois fils tombèrent dans la même bataille et furent enterrés ensemble ?",
-        "response": "Actes 23:23-24"
+        "response": "1 Chroniques 10:6,12"
     },
     {
         "question": "Quel prisonnier fut gardé par 470 soldats ?",
-        "response": "1 Samuel 2:14"
+        "response": "Actes 23:23-24"
     },
     {
         "question": "Où utilisait-on un pot et une chaudière pour préparer les sacrifices ?",
-        "response": "Néhémie 8:14,17"
+        "response": "1 Samuel 2:14"
     },
     {
         "question": "Quelle fête judaïque fut rétablie après avoir été négligée plus de mille ans ?",
-        "response": "Daniel 7:4-5"
+        "response": "Néhémie 8:14,17"
     },
     {
         "question": "Quel prophète a vu en vision un lion puis un ours ?",
-        "response": "Amos 5:19"
+        "response": "Daniel 7:4-5"
     },
     {
         "question": "Quel prophète prend comme image un homme rencontrant un ours alors qu’il s’enfuyait de devant un lion ?",
-        "response": "1 Samuel 17:36"
+        "response": "Amos 5:19"
     },
     {
         "question": "Quel berger a délivré ses brebis d’un lion et d’un ours ?",
-        "response": "Esther 2:21-23"
+        "response": "1 Samuel 17:36"
     },
     {
         "question": "Quand est-ce que deux employés du palais royal furent pendus pour avoir cherché à faire un attentat contre le roi ?",
-        "response": "Lévitique 11:29"
+        "response": "Esther 2:21-23"
     },
     {
         "question": "Pouvait-on manger les taupes ?",
-        "response": "Genèse 35:20"
+        "response": "Lévitique 11:29"
     },
     {
         "question": "Où se trouve la première mention d’une pierre tombale ?",
-        "response": "Deutéronome 34:5,6,10"
+        "response": "Genèse 35:20"
     },
     {
         "question": "Quel prophète a été enterré par Dieu ?",
-        "response": "Jérémie 26:20-23"
+        "response": "Deutéronome 34:5,6,10"
     },
     {
         "question": "Quel prophète, menacé de mort à cause de sa prophétie, prit la fuite et fut quand même tué ?",
+        "response": "Jérémie 26:20-23"
+    },
+    {
+        "question": "Qui prophétisa que, si Juda n’écoutait pas l’Éternel, Jérusalem serait une malédiction pour toutes les nations de la terre ?",
         "response": "Jérémie 26:6"
     },
     {
-        "question": "Qui prophétisa que, si Juda n’écoutait pas Jéhovah, Jérusalem serait une malédiction pour toutes les nations de la terre ?",
+        "question": "Quelle est la ville qui sera comme une pierre pesante pour toutes les nations ?",
         "response": "Zacharie 12:3"
     },
     {
-        "question": "Quelle est la ville qui sera comme une pierre pesante pour toutes les nations ?",
+        "question": "Quelles sont les personnes que l’Ancien Testament décrit comme attendant la mort sans la trouver ?",
         "response": "Job 3:20-21"
     },
     {
-        "question": "Quelles sont les personnes que l’Ancien Testament décrit comme attendant la mort sans la trouver ?",
-        "response": "Révélations 9:6"
-    },
-    {
         "question": "Quelles sont les personnes que le Nouveau Testament décrit comme recherchant la mort sans la trouver ?",
-        "response": "1 Rois 13:20-21"
+        "response": "Apocalypse 9:6"
     },
     {
         "question": "Qui enterra un prophète dans son propre sépulcre ?",
-        "response": "2 Chroniques 16:14"
+        "response": "1 Rois 13:20-21"
     },
     {
         "question": "Quel roi avait préparé son sépulcre avant sa mort ?",
-        "response": "Genèse 43:31"
+        "response": "2 Chroniques 16:14"
     },
     {
         "question": "Citer l’homme dont il est dit qu’il s’est lavé le visage.",
-        "response": "Matthieu 6:17"
+        "response": "Genèse 43:31"
     },
     {
         "question": "À quelle occasion un chrétien doit-il laver son visage ?",
-        "response": "Ézéchiel 8:7"
+        "response": "Matthieu 6:17"
     },
     {
         "question": "Quel prophète a regardé dans une maison par un trou dans le mur ?",
-        "response": "Néhémie 3:12"
+        "response": "Ézéchiel 8:7"
     },
     {
         "question": "Quand est-ce que des femmes aidèrent à rebâtir les murs d’une ville ?",
-        "response": "1 Rois 22:30,34,35 ; 2 Chroniques 35:22-24"
+        "response": "Néhémie 3:12"
     },
     {
         "question": "Quels sont les deux rois qui se déguisèrent pour ne pas être reconnus pendant la bataille, mais furent quand même tués ?",
-        "response": "Esther 1:1 ; 8:9"
+        "response": "1 Rois 22:30,34,35 ; 2 Chroniques 35:22-24"
     },
     {
         "question": "Où l’Inde est-elle mentionnée ?",
-        "response": "Néhémie 6:10,11"
+        "response": "Esther 1:1 ; 8:9"
     },
     {
         "question": "Quand est-ce qu’un homme bon, en danger de se faire assassiner, refusa de se réfugier dans le temple de Jérusalem ?",
-        "response": "Jérémie 40:13 à 41:3"
+        "response": "Néhémie 6:10,11"
     },
     {
         "question": "Quand est-ce qu’un homme bon, en danger de se faire assassiner, refusa de se protéger et fut effectivement assassiné ?",
-        "response": "2 Chroniques 33:11-13"
+        "response": "Jérémie 40:13 à 41:3"
     },
     {
         "question": "Quel roi fut emmené captif enchaîné, puis remis sur son trône plus tard ?",
-        "response": "2 Rois 6:26-29"
+        "response": "2 Chroniques 33:11-13"
     },
     {
         "question": "Qui a fait du cannibalisme ?",
-        "response": "Ézéchiel 5:1"
+        "response": "2 Rois 6:26-29"
     },
     {
         "question": "À quel prophète fut-il demandé de raser sa tête et sa barbe ?",
-        "response": "Ésaïe 7:20"
+        "response": "Ézéchiel 5:1"
     },
     {
         "question": "Où peut-on lire quelque chose a propos de raser avec un rasoir loué ?",
-        "response": "Juges 12:13-14"
+        "response": "Ésaïe 7:20"
     },
     {
         "question": "Qui avait 40 fils et 30 petits-fils ?",
-        "response": "Romains 16:20"
+        "response": "Juges 12:13-14"
     },
     {
         "question": "Où est-ce que le Nouveau Testament prophétise que Satan sera brisé ?",
-        "response": "2 Samuel 19:18"
+        "response": "Romains 16:20"
     },
     {
         "question": "Qui traversa le Jourdain en bac ?",
-        "response": "Esther 1:16-22"
+        "response": "2 Samuel 19:18"
     },
     {
         "question": "Quelle reine perdit sa couronne, pour avoir encouragé les femmes à mépriser leurs maris ?",
-        "response": "1 Samuel 25:37"
+        "response": "Esther 1:16-22"
     },
     {
         "question": "Qui tomba dans la coma dix jours avant de mourir ?",
-        "response": "Nombres 36:1-12"
+        "response": "1 Samuel 25:37"
     },
     {
         "question": "Quand est-ce que 5 filles épousèrent leurs cousins pour hériter de la terre de leurs pères ?",
-        "response": "1 Chroniques 27:32"
+        "response": "Nombres 36:1-12"
     },
     {
         "question": "Citer le nom d’un oncle du roi David.",
-        "response": "Jérémie 32:6-12"
+        "response": "1 Chroniques 27:32"
     },
     {
         "question": "Quand est-ce qu’un prophète acheta un champ alors qu’il était en prison ?",
-        "response": "Esther 8:15"
+        "response": "Jérémie 32:6-12"
     },
     {
         "question": "Dans quelle cour royale le bleu et le blanc étaient des couleurs royales ?",
-        "response": "2 Rois 6:30"
+        "response": "Esther 8:15"
     },
     {
         "question": "Quel roi était vêtu d’un sac sur la peau, sous ses vêtements ?",
-        "response": "Ézéchiel 8:3"
+        "response": "2 Rois 6:30"
     },
     {
         "question": "Qui fut attrapé par les boucles de sa tête, et emmené de Chaldée à Jérusalem ?",
-        "response": "1 Samuel 6:30"
+        "response": "Ézéchiel 8:3"
     },
     {
         "question": "Quel prophète eut deux fils qui étaient des juges malhonnêtes ?",
-        "response": "Proverbes 30:33"
+        "response": "1 Samuel 6:30"
     },
     {
         "question": "Où est-il parlé du saignement de nez ?",
-        "response": "2 Samuel 19:24-29"
+        "response": "Proverbes 30:33"
     },
     {
         "question": "Quel prince boiteux perdit la moitié de ses terres par la trahison de son serviteur ?",
-        "response": "Révélations 20:8"
+        "response": "2 Samuel 19:24-29"
     },
     {
         "question": "Où est-ce que le Nouveau Testament parle de Gog et Magog ?",
-        "response": "Ézéchiel 38"
+        "response": "Apocalypse 20:8"
     },
     {
         "question": "Où est-ce que l’Ancien Testament parle de Gog et Magog ?",
-        "response": "Actes 21:3"
+        "response": "Ézéchiel 38"
     },
     {
         "question": "Où est-ce que le Nouveau Testament parle de décharger la cargaison d’un navire ?",
-        "response": "Genèse 41:42 ; Esther 3:10 ; 8:2"
+        "response": "Actes 21:3"
     },
     {
         "question": "Quels sont les deux rois ayant donné son anneau à un chef ?",
-        "response": "Job 6:5"
+        "response": "Genèse 41:42 ; Esther 3:10 ; 8:2"
     },
     {
         "question": "Quand est-il dit que les ânes sauvages ne braient pas ?",
-        "response": "Ézéchiel 17:3-6"
+        "response": "Job 6:5"
     },
     {
         "question": "Où peut-on lire qu’un aigle effectua une plantation ?",
-        "response": "1 Rois 2:36-46"
+        "response": "Ézéchiel 17:3-6"
     },
     {
         "question": "Qui fut assigné à résidence à Jérusalem et ne respecta pas son obligation ?",
-        "response": "Actes 22:25"
+        "response": "1 Rois 2:36-46"
     },
     {
         "question": "De tous les prisonniers mentionnés dans l’Écriture, un seul fut lié avec des courroies. Qui ?",
-        "response": "2 Rois 10:22"
+        "response": "Actes 22:25"
     },
     {
         "question": "Où est-ce que la Bible mentionne un vestiaire ?",
-        "response": "Lévitique 10:4"
+        "response": "2 Rois 10:22"
     },
     {
         "question": "Quel fut le nom d’un oncle d’Aaron ?",
-        "response": "Ézéchiel 37:15-20"
+        "response": "Lévitique 10:4"
     },
     {
         "question": "Quel prophète reçut le commandement d’écrire sur du bois ?",
-        "response": "Genèse 21:16"
+        "response": "Ézéchiel 37:15-20"
     },
     {
         "question": "Qui est la première personne qu’on voit pleurer ?",
-        "response": "1 Rois 6:8"
+        "response": "Genèse 21:16"
     },
     {
         "question": "Quelle maison avait un escalier tournant ?",
-        "response": "Exode 29:20-21"
+        "response": "1 Rois 6:8"
     },
     {
         "question": "Quelles personnes étaient consacrées en mettant du sang sur le lobe de leurs oreilles droites, sur le pouce de leurs mains droites, et sur le gros orteil de leurs pieds droits ?",
-        "response": "Lévitique 14:14"
+        "response": "Exode 29:20-21"
     },
     {
         "question": "Quelles personnes étaient purifiées en mettant du sang sur le lobe de leurs oreilles droites, sur le pouce de leurs mains droites, et sur le gros orteil de leurs pieds droits ?",
-        "response": "Sophonie 2:15"
+        "response": "Lévitique 14:14"
     },
     {
         "question": "Quel prophète décrit un homme comme «secouant sa main» ?",
-        "response": "Joël 3:9-10"
+        "response": "Sophonie 2:15"
     },
     {
         "question": "Où des gens reçoivent-ils l’ordre de forger des épées à partir de leurs socs ?",
-        "response": "Ésaïe 2:4 ; Michée 4:3"
+        "response": "Joël 3:9-10"
     },
     {
         "question": "Où voit-on des gens forger des socs à partir de leurs épées ?",
-        "response": "1 Samuel 1:12-15"
+        "response": "Ésaïe 2:4 ; Michée 4:3"
     },
     {
         "question": "Quelle femme pieuse fut prise pour une ivrogne pendant qu’elle priait ?",
-        "response": "Actes 2:15"
+        "response": "1 Samuel 1:12-15"
     },
     {
         "question": "Quels hommes pieux furent pris pour des ivrognes pendant qu’ils priaient ?",
-        "response": "Esdras 10:1"
+        "response": "Actes 2:15"
     },
     {
         "question": "Quel homme de Dieu pleurait en priant ?",
-        "response": "Jérémie 29:21-22"
+        "response": "Esdras 10:1"
     },
     {
         "question": "De quels faux prophètes la mort horrible (grillés au feu) est passée en formule de malédiction ?",
-        "response": "Actes 28:30"
+        "response": "Jérémie 29:21-22"
     },
     {
         "question": "Quel apôtre a loué un appartement ?",
-        "response": "Actes 19:9"
+        "response": "Actes 28:30"
     },
     {
         "question": "Quel apôtre a prêché dans une école ?",
-        "response": "Révélations 9:8"
+        "response": "Actes 19:9"
     },
     {
         "question": "Quelles créatures avaient des cheveux de femmes, et des dents de lions ?",
-        "response": "Ézéchiel 17:3"
+        "response": "Apocalypse 9:8"
     },
     {
         "question": "Quel oiseau est décrit dans l’Écriture comme ayant de grandes ailes ?",
-        "response": "2 Chroniques 36:22-23"
+        "response": "Ézéchiel 17:3"
     },
     {
         "question": "Quel livre de la Bible se termine par deux versets répétés au début du livre suivant ?",
-        "response": "Nahum 3:17"
+        "response": "2 Chroniques 36:22-23"
     },
     {
         "question": "Où peut-on lire qu’une nuée d’insectes campe dans les haies au frais du jour ?",
-        "response": "Jonas 1:3"
+        "response": "Nahum 3:17"
     },
     {
         "question": "Quel voyageur a payé le prix de sa place ?",
-        "response": "Néhémie 2:1-9"
+        "response": "Jonas 1:3"
     },
     {
         "question": "Quel roi envoya en mission dans un pays étranger celui qui lui servait le vin ?",
-        "response": "Juges 9:5,56"
+        "response": "Néhémie 2:1-9"
     },
     {
         "question": "Donner le nom de l’homme qui tua ses 70 frères.",
-        "response": "Jérémie 25:34"
+        "response": "Juges 9:5,56"
     },
     {
         "question": "Quand les pasteurs sont-ils invités à hurler et crier ?",
-        "response": "Daniel 6:19,20"
+        "response": "Jérémie 25:34"
     },
     {
         "question": "Quel roi cria d’une voix triste très tôt le matin ?",
-        "response": "Romains 16:13"
+        "response": "Daniel 6:19,20"
     },
     {
         "question": "Qui avait la même mère que Rufus ?",
-        "response": "Marc 15:21"
+        "response": "Romains 16:13"
     },
     {
         "question": "Qui avait le même père que Rufus ?",
-        "response": "Esdras 10:9,13"
+        "response": "Marc 15:21"
     },
     {
         "question": "Quand plut-il si fort à Jérusalem, que le peuple tremblait et personne ne pouvait sortir de chez soi ?",
-        "response": "Habakuk 1:6,8"
+        "response": "Esdras 10:9,13"
     },
     {
         "question": "Quelle nation cruelle avait des chevaux plus rapides que des léopards ?",
-        "response": "Juges 3:20-23"
+        "response": "Habakuk 1:6,8"
     },
     {
         "question": "Quel roi fut assassiné dans sa chambre haute ?",
-        "response": "Lévitique 11:6, 29"
+        "response": "Juges 3:20-23"
     },
     {
         "question": "Quel chapitre mentionne aussi bien le lièvre que la souris ?",
-        "response": "Zacharie 5:9"
+        "response": "Lévitique 11:6, 29"
     },
     {
         "question": "Qui vit en vision deux femmes qui avaient des ailes comme des cigognes ?",
-        "response": "Job 39:16-21"
+        "response": "Zacharie 5:9"
     },
     {
         "question": "Où les habitudes de l’autruche vis-à-vis de ses œufs et de ses petits sont-elles décrites ?",
-        "response": "Ézéchiel 17:2"
+        "response": "Job 39:16-21"
     },
     {
         "question": "À quel prophète fut-il ordonné de proposer une énigme ?",
-        "response": "Romains 16:3-4"
+        "response": "Ézéchiel 17:2"
     },
     {
         "question": "Citer deux personnes ayant «exposées leur propre cou».",
-        "response": "Esdras 7:21-24"
+        "response": "Romains 16:3-4"
     },
     {
         "question": "Quel roi exempta de taxes tous les sacrificateurs, lévites et les autres ministres du temple à Jérusalem ?",
-        "response": "Lamentations de Jérémie 4:3"
+        "response": "Esdras 7:21-24"
     },
     {
         "question": "Où peut-on lire que des chacals allaitent leurs petits ?",
-        "response": "Néhémie 2:12-16"
+        "response": "Lamentations de Jérémie 4:3"
     },
     {
         "question": "Qui explora secrètement les ruines d’une ville la nuit ?",
-        "response": "Juges 7:9-15"
+        "response": "Néhémie 2:12-16"
     },
     {
         "question": "Quelle est la première parabole rapportée dans l’Écriture ?",
-        "response": "Jérémie 36:23"
+        "response": "Juges 7:9-15"
     },
     {
         "question": "Qui coupa un livre avec un canif ?",
-        "response": "2 Rois 4:42-44"
+        "response": "Jérémie 36:23"
     },
     {
         "question": "Quand 20 pains furent-ils de trop pour nourrir 100 hommes ?",
-        "response": "1 Rois 20:16"
+        "response": "2 Rois 4:42-44"
     },
     {
         "question": "Où peut-on lire que 33 rois s’enivraient à midi ?",
-        "response": "1 Samuel 30:16-20"
+        "response": "1 Rois 20:16"
     },
     {
         "question": "Où une grande troupe fut-elle presqu’entièrement exterminée pendant qu’ils mangeaient, buvaient et dansaient ?",
-        "response": "Job 1:18-19"
+        "response": "1 Samuel 30:16-20"
     },
     {
         "question": "Où est-ce que des frères et sœurs furent tués pendant qu’ils mangeaient et buvaient ?",
-        "response": "Ésaïe 22:18"
+        "response": "Job 1:18-19"
     },
     {
         "question": "À qui est-il annoncé qu’il sera roulé en boule avant de mourir dans la honte ?",
-        "response": "Genèse 40:22"
+        "response": "Ésaïe 22:18"
     },
     {
         "question": "Qui est le premier pendu dans l’Écriture ?",
-        "response": "Josué 10:22-26"
+        "response": "Genèse 40:22"
     },
     {
         "question": "Quand est-ce que cinq rois furent pendus à cinq arbres ?",
-        "response": "Josué 8:3-22"
+        "response": "Josué 10:22-26"
     },
     {
         "question": "Où se trouve le premier récit d’une embuscade ?",
-        "response": "Genèse 34:25"
+        "response": "Josué 8:3-22"
     },
     {
         "question": "Où se trouve le premier récit d’un guet-apens ?",
-        "response": "1 Rois 19:5-7"
+        "response": "Genèse 34:25"
     },
     {
         "question": "Qui fut réveillé deux fois par un ange qui le touchait ?",
-        "response": "1 Rois 20:38-43"
+        "response": "1 Rois 19:5-7"
     },
     {
         "question": "Quel prophète se déguisa avec un bandeau sur les yeux ?",
-        "response": "Amos 8:1,2"
+        "response": "1 Rois 20:38-43"
     },
     {
         "question": "Quel prophète vit en vision un panier de fruits ?",
-        "response": "Esdras 8:27"
+        "response": "Amos 8:1,2"
     },
     {
         "question": "Où trouve-t-on des vases d’airain aussi précieux que d’or ?",
-        "response": "Ézéchiel 30:22"
+        "response": "Esdras 8:27"
     },
     {
         "question": "Quel roi n’a pas été bandé quand son bras fut cassé ?",
-        "response": "1 Rois 18:4"
+        "response": "Ézéchiel 30:22"
     },
     {
         "question": "Qui cacha 100 prophètes persécutés ?",
-        "response": "Ésaïe 3:18-24"
+        "response": "1 Rois 18:4"
     },
     {
         "question": "Quel sort est-il annoncé pour les différents articles de toilette d’une femme ?",
-        "response": "1 Rois 11:29-31"
+        "response": "Ésaïe 3:18-24"
     },
     {
         "question": "Quel prophète déchira un vêtement en 12 morceaux ?",
-        "response": "Jérémie 36:22"
+        "response": "1 Rois 11:29-31"
     },
     {
         "question": "Quel roi était devant un feu de cheminée pendant qu’on lui faisait la lecture ?",
-        "response": "Osée 4:13"
+        "response": "Jérémie 36:22"
     },
     {
         "question": "Quel verset de l’Ancien Testament mentionne le chêne, le peuplier et le térébinthe ?",
-        "response": "Deutéronome 25:9"
+        "response": "Osée 4:13"
     },
     {
         "question": "Quand quelles circonstances une veuve avait-elle le droit de cracher publiquement sur son beau-frère ?",
-        "response": "Juges 9:21 ; Genèse 27:43-45"
+        "response": "Deutéronome 25:9"
     },
     {
         "question": "De qui est-il écrit qu’il s’enfuit par peur de son frère ?",
-        "response": "Job 28:1-11"
+        "response": "Juges 9:21 ; Genèse 27:43-45"
     },
     {
         "question": "Où trouve-t-on une description du travail des mineurs ?",
-        "response": "1 Rois 22:11"
+        "response": "Job 28:1-11"
     },
     {
         "question": "Quand est-ce qu’un prophète se fit des cornes de fer pour appuyer son message ?",
-        "response": "2 Chroniques 15:16"
+        "response": "1 Rois 22:11"
     },
     {
         "question": "Qui abattit et brûla l’idole de sa mère ?",
-        "response": "Deutéronome 23:24"
+        "response": "2 Chroniques 15:16"
     },
     {
         "question": "Quand un juif pouvait-il manger à volonté des grappes dans la vigne de son voisin ?",
-        "response": "1 Rois 15:17,21-22"
+        "response": "Deutéronome 23:24"
     },
     {
         "question": "Quand est-ce que deux villes furent bâties au moyen des matériaux récupérés à la démolition d’une autre ville ?",
-        "response": "Ézéchiel 27:3"
+        "response": "1 Rois 15:17,21-22"
     },
     {
         "question": "Quelle grande ville portuaire dit d’elle-même « je suis parfaite en beauté » ?",
-        "response": "Cantique des Cantiques 4:3"
+        "response": "Ézéchiel 27:3"
     },
     {
         "question": "Où est-ce que les lèvres d’une femme sont-elles comparées à un fil d’écarlate ?",
-        "response": "Ésaïe 33:21"
+        "response": "Cantique des Cantiques 4:3"
     },
     {
         "question": "Quel verset consolait les galériens par la promesse que viendrait un temps où il n’y aurait plus de galères («vaisseau à rames ») ?",
-        "response": "Deutéronome 20:19-20"
+        "response": "Ésaïe 33:21"
     },
     {
         "question": "Où la destruction des vergers est-elle interdite pour faire la guerre ?",
-        "response": "Proverbes 27:15"
+        "response": "Deutéronome 20:19-20"
     },
     {
         "question": "Quel mauvais effet un jour de pluie peut-il avoir sur un toit ?",
-        "response": "2 Rois 12:9-11"
+        "response": "Proverbes 27:15"
     },
     {
         "question": "Où est-il décrit la fabrication et l’utilisation d’un tronc pour faire une collecte d’argent ?",
-        "response": "Exode 28:28, 37; 39:21, 31 ; Nombres 15:38"
+        "response": "2 Rois 12:9-11"
     },
     {
         "question": "Où devait-on mettre un cordon de bleu ?",
-        "response": "Josué 2:18-21 ; 6:22-25"
+        "response": "Exode 28:28, 37; 39:21, 31 ; Nombres 15:38"
     },
     {
         "question": "Qui eut la vie sauve grâce à un cordon rouge ?",
-        "response": "1 Rois 7:1"
+        "response": "Josué 2:18-21 ; 6:22-25"
     },
     {
         "question": "Quel roi mit treize ans à se construire sa propre maison ?",
-        "response": "1 Rois 16:34"
+        "response": "1 Rois 7:1"
     },
     {
         "question": "Qui perdit ses fils en reconstruisant une ville maudite ?",
-        "response": "Genèse 41:14"
+        "response": "1 Rois 16:34"
     },
     {
         "question": "Où est-il écrit pour la première fois qu’un homme se soit rasé ?",
-        "response": "Actes 18:18"
+        "response": "Genèse 41:14"
     },
     {
         "question": "Quel est l’apôtre dont il est dit qu’il s’est fait raser ?",
-        "response": "2 Samuel 10:4-5"
+        "response": "Actes 18:18"
     },
     {
         "question": "Qui rendit très confus les envoyés d’un roi, en faisant raser la moitié de leur barbe ?",
-        "response": "Révélations 19:17"
+        "response": "2 Samuel 10:4-5"
     },
     {
         "question": "Quand est-ce que les oiseaux volant dans le ciel sont invités au grand souper de Dieu ?",
-        "response": "Genèse 18:12-15"
+        "response": "Apocalypse 19:17"
     },
     {
         "question": "Quelle femme est-elle mentionnée comme ayant ri ?",
-        "response": "Luc 19:3"
+        "response": "Genèse 18:12-15"
     },
     {
         "question": "Quel homme est-il décrit comme petit de taille ?",
-        "response": "1 Rois 13:29-31 ; 2 Rois 23:16-18"
+        "response": "Luc 19:3"
     },
     {
         "question": "Quand est-ce que deux prophètes furent enterrés dans le même sépulcre qu’un roi refusa de profaner ?",
-        "response": "Genèse 46:34"
+        "response": "1 Rois 13:29-31 ; 2 Rois 23:16-18"
     },
     {
         "question": "Quelle nation avait les bergers en abomination ?",
-        "response": "1 Chroniques 21:16-27"
+        "response": "Genèse 46:34"
     },
     {
         "question": "Quand est-ce qu’un ange remit son épée dans son fourreau ?",
-        "response": "2 Rois 1:8 ; Matthieu 3:4"
+        "response": "1 Chroniques 21:16-27"
     },
     {
         "question": "Quels sont les deux prophètes qui portaient des ceintures de cuir ?",
-        "response": "Nombres 15:32 ; 1 Rois 17:10 ; Actes 28:3"
+        "response": "2 Rois 1:8 ; Matthieu 3:4"
     },
     {
         "question": "Quelles sont les trois personnes qui ramassaient du bois ?",
-        "response": "1 Rois 15:22"
+        "response": "Nombres 15:32 ; 1 Rois 17:10 ; Actes 28:3"
     },
     {
         "question": "Quand est-ce que tout un peuple, sans exception, dut aller transporter des pierres ?",
-        "response": "Lamentations de Jérémie 2:11-12"
+        "response": "1 Rois 15:22"
     },
     {
         "question": "Où la misère était-elle si grande que les enfants défaillaient dans les places d’une ville ?",
-        "response": "1 Rois 13:4-6"
+        "response": "Lamentations de Jérémie 2:11-12"
     },
     {
         "question": "Quand est-ce que la main paralysée d’un roi fut guérie par la prière d’un prophète ?",
-        "response": "1 Timothée 5:13"
+        "response": "1 Rois 13:4-6"
     },
     {
         "question": "Quelle épître condamne les femmes oisives et causeuses ?",
-        "response": "2 Rois 4:10"
+        "response": "1 Timothée 5:13"
     },
     {
         "question": "Quel est le mobilier minimum d’une chambre de prophète ?",
-        "response": "Deutéronome 33:5"
+        "response": "2 Rois 4:10"
     },
     {
         "question": "Moïse a-t-il été roi ?",
-        "response": "Juges 6:11 ; 1 Chroniques 21:20"
+        "response": "Deutéronome 33:5"
     },
     {
         "question": "Quels sont les deux hommes dont l’Écriture dit qu’ils foulaient ou battaient le froment ?",
-        "response": "Ézéchiel 4:1"
+        "response": "Juges 6:11 ; 1 Chroniques 21:20"
     },
     {
         "question": "Qui dut faire sur une brique le dessin d’une ville assiégée ?",
-        "response": "1 Rois 16:24"
+        "response": "Ézéchiel 4:1"
     },
     {
         "question": "Quel roi paya deux talents d’argent un territoire, et y bâtit une ville qu’il nomma d’après le nom de l’ancien propriétaire ?",
-        "response": "Habakuk 2:11"
+        "response": "1 Rois 16:24"
     },
     {
         "question": "Quel prophète prédit que la pierre crie et que de la charpente le chevron répond ?",
-        "response": "Exode 22:2-3"
+        "response": "Habakuk 2:11"
     },
     {
         "question": "Dans quelles circonstances un voleur pouvait-il être vendu pour être esclave ?",
-        "response": "2 Samuel 21:20"
+        "response": "Exode 22:2-3"
     },
     {
         "question": "Qui avait six doigts aux mains et six orteils aux pieds ?",
-        "response": "Esdras 3:12-13"
+        "response": "2 Samuel 21:20"
     },
     {
         "question": "Quand fut-il impossible de distinguer les cris de joie d’avec les pleurs du peuple ?",
-        "response": "Daniel 1:4 ; 1 Timothée 6:20"
+        "response": "Esdras 3:12-13"
     },
     {
         "question": "Donner des exemples de jeunes gens instruits selon Dieu.",
-        "response": "1 Rois 21:8"
+        "response": "Daniel 1:4 ; 1 Timothée 6:20"
     },
     {
         "question": "Quand est-ce qu’une femme utilisa le sceau de son mari ?",
-        "response": "2 Rois 23:17"
+        "response": "1 Rois 21:8"
     },
     {
         "question": "Où est-ce que l’Écriture parle de personnes regardant un monument ?",
-        "response": "Amos 7:13"
+        "response": "2 Rois 23:17"
     },
     {
         "question": "Où est mentionné «le sanctuaire du roi» ?",
-        "response": "Jérémie 8:7"
+        "response": "Amos 7:13"
     },
     {
         "question": "Quel prophète fait allusion à la migration des oiseaux ?",
-        "response": "Jérémie 36:23-32"
+        "response": "Jérémie 8:7"
     },
     {
         "question": "Qui a brûlé un seul livre ?",
-        "response": "Actes 19:19"
+        "response": "Jérémie 36:23-32"
     },
     {
         "question": "Qui a brûlé beaucoup de livres ?",
-        "response": "Lévitique 19:19"
+        "response": "Actes 19:19"
     },
     {
         "question": "Où était-il interdit de porter un vêtement d’un tissu mélangé de deux espèces de fil ?",
-        "response": "Zacharie 6:1"
+        "response": "Lévitique 19:19"
     },
     {
         "question": "Qui vit en vision quatre chars sortant d’entre deux montagnes d’airain ?",
-        "response": "Psaumes 78:48"
+        "response": "Zacharie 6:1"
     },
     {
         "question": "Où est mentionnée la foudre tombant sur des troupeaux ?",
-        "response": "Job 36:32 ; 37:3"
+        "response": "Psaumes 78:48"
     },
     {
         "question": "La foudre tombe-t-elle au hasard ou à l’endroit voulu de Dieu ?",
-        "response": "Jonas 4:7"
+        "response": "Job 36:32 ; 37:3"
     },
     {
         "question": "Pour quel but précis Dieu prépara-t-il un ver ?",
-        "response": "1 Samuel 18:4"
+        "response": "Jonas 4:7"
     },
     {
         "question": "Qui donna ses armes à son ami ?",
-        "response": "Deutéronome 24:10-13"
+        "response": "1 Samuel 18:4"
     },
     {
         "question": "Quand est-ce qu’un prêteur sur gage ne devait pas garder le gage plus d’un jour ?",
-        "response": "Zacharie 11:17"
+        "response": "Deutéronome 24:10-13"
     },
     {
         "question": "Où est-il prédit à un pasteur la perte de son œil droit ?",
-        "response": "Ézéchiel 30:21"
+        "response": "Zacharie 11:17"
     },
     {
         "question": "Quel prophète parle de ligatures pour bander un membre cassé ?",
-        "response": "Aggée 1:6"
+        "response": "Ézéchiel 30:21"
     },
     {
         "question": "Où peut-on lire qu’un travailleur met son salaire dans une bourse ne pouvant pas contenir de l’argent ?",
-        "response": "Job 40:20 ; 41:15"
+        "response": "Aggée 1:6"
     },
     {
         "question": "De quel animal est-il dit que son cœur est dur comme une meule ?",
-        "response": "2 Corinthiens 10:10"
+        "response": "Job 40:20 ; 41:15"
     },
     {
         "question": "De qui disait-on que ses écrits étaient forts, mais sa parole méprisable ?",
-        "response": "2 Samuel 19:37"
+        "response": "2 Corinthiens 10:10"
     },
     {
         "question": "Qui désira être enterré dans le tombeau de son père et sa mère ?",
-        "response": "Jonas 2:2-3"
+        "response": "2 Samuel 19:37"
     },
     {
         "question": "Qui pria sous l’eau ?",
-        "response": "Révélations 8:7"
+        "response": "Jonas 2:2-3"
     },
     {
         "question": "Où peut-on lire que toute herbe verte fut brûlée ?",
-        "response": "Zacharie 1:11"
+        "response": "Apocalypse 8:7"
     },
     {
         "question": "Quand est-ce qu’un ange pu être vu, se tenant parmi des myrtes ?",
-        "response": "Job 40:14"
+        "response": "Zacharie 1:11"
     },
     {
         "question": "De quel animal est-il dit qu’il est la première des voies de Dieu ?",
-        "response": "Ecclésiaste 5:12"
+        "response": "Job 40:14"
     },
     {
         "question": "Qui a dit que les richesses sont sources d’insomnies ?",
-        "response": "Juges 4:3"
+        "response": "Ecclésiaste 5:12"
     },
     {
         "question": "Quel roi avait 900 chars de fer ?",
-        "response": "Psaumes 106:33"
+        "response": "Juges 4:3"
     },
     {
         "question": "Où est-il écrit que Moïse parla légèrement ?",
-        "response": "Proverbes 6:12-13"
+        "response": "Psaumes 106:33"
     },
     {
         "question": "Où est-il désapprouvé de faire des clins d’œil ?",
-        "response": "1 Thessaloniciens 2:3"
+        "response": "Proverbes 6:12-13"
     },
     {
         "question": "Qui disait que les chrétiens ne doivent pas parler avec ruse ?",
-        "response": "Psaumes 119:70"
+        "response": "1 Thessaloniciens 2:3"
     },
     {
         "question": "Qui a un cœur épaissi comme la graisse ?",
-        "response": "1 Samuel 10:27"
+        "response": "Psaumes 119:70"
     },
     {
         "question": "Quels hommes méprisèrent leur roi et ne lui apportèrent pas de présent ?",
+        "response": "1 Samuel 10:27"
+    },
+    {
+        "question": "Quelle plaie tombera sur ceux qui refuseront de venir adorer l’Éternel ?",
         "response": "Zacharie 14:16-18"
     },
     {
-        "question": "Quelle plaie tombera sur ceux qui refuseront de venir adorer Jéhovah ?",
+        "question": "Quand est-ce qu’un jeune prince fut caché six ans par sa tante ?",
         "response": "1 Rois 11:1-3"
     },
     {
-        "question": "Quand est-ce qu’un jeune prince fut caché six ans par sa tante ?",
-        "response": "Révélations 18:2,7"
-    },
-    {
         "question": "Quelle est la ville qui dit en son cœur : « Je suis assise en reine, et je ne suis point veuve » ?",
-        "response": "Proverbes 14:1"
+        "response": "Apocalypse 18:2,7"
     },
     {
         "question": "Quel caractère a celui qui détruit lui-même sa maison ?",
-        "response": "Zacharie 12:4"
+        "response": "Proverbes 14:1"
     },
     {
         "question": "Quand tous les chevaux seront-ils rendus aveugles ?",
-        "response": "Ésaïe 55:12"
+        "response": "Zacharie 12:4"
     },
     {
         "question": "Où est-il prophétisé que des arbres frapperont des mains ?",
-        "response": "Hébreux 10:24"
+        "response": "Ésaïe 55:12"
     },
     {
         "question": "Où est-ce que les chrétiens sont invités à s’exciter les uns les autres ?",
-        "response": "1 Samuel 22:18"
+        "response": "Hébreux 10:24"
     },
     {
         "question": "Quel roi fit massacrer 85 sacrificateurs en un seul jour ?",
-        "response": "Marc 10:17-22"
+        "response": "1 Samuel 22:18"
     },
     {
         "question": "Quelle personne accourut enthousiaste, mais s’en alla toute triste ?",
+        "response": "Marc 10:17-22"
+    },
+    {
+        "question": "Qui déclara être haï de l’Éternel ?",
         "response": "Deutéronome 1:27"
     },
     {
-        "question": "Qui déclara être haï de Jéhovah ?",
+        "question": "De quel animal est-il dit qu’il courbe sa queue comme un cèdre ?",
         "response": "Job 40:12"
     },
     {
-        "question": "De quel animal est-il dit qu’il courbe sa queue comme un cèdre ?",
+        "question": "Où est-ce qu’un homme reçoit l’ordre de boire des eaux de sa citerne ?",
         "response": "Proverbes 5:15"
     },
     {
-        "question": "Où est-ce qu’un homme reçoit l’ordre de boire des eaux de sa citerne ?",
+        "question": "Quel est le seul livre de la Bible à mentionner « une paire de sandales » ?",
         "response": "Amos 2:6 ; 8:6"
     },
     {
-        "question": "Quel est le seul livre de la Bible à mentionner « une paire de sandales » ?",
+        "question": "De qui ne pouvait-on pas délier les courroies des sandales ?",
         "response": "Marc 1:7 ; Luc 3:16"
     },
     {
-        "question": "De qui ne pouvait-on pas délier les courroies des sandales ?",
+        "question": "Qui se plaignit d’être jeté ça et là comme une sauterelle ?",
         "response": "Psaumes 109:23"
     },
     {
-        "question": "Qui se plaignit d’être jeté ça et là comme une sauterelle ?",
+        "question": "Où peut-on lire que l’épée d’un chef d’armée tomba de son fourreau ?",
         "response": "2 Samuel 20:8"
     },
     {
-        "question": "Où peut-on lire que l’épée d’un chef d’armée tomba de son fourreau ?",
+        "question": "Qu’est-ce qui fera croître les jeunes filles ?",
         "response": "Zacharie 9:17"
     },
     {
-        "question": "Qu’est-ce qui fera croître les jeunes filles ?",
+        "question": "Qui trahit un roi en faisant l’insensé ?",
         "response": "1 Samuel 21:12-15"
     },
     {
-        "question": "Qui trahit un roi en faisant l’insensé ?",
+        "question": "Où est-il dit que les vautours sont chauves ?",
         "response": "Michée 1:16"
     },
     {
-        "question": "Où est-il dit que les vautours sont chauves ?",
+        "question": "Quel roi demanda en secret une parole de l’Éternel ?",
         "response": "Jérémie 37:17"
     },
     {
-        "question": "Quel roi demanda en secret une parole de Jéhovah ?",
+        "question": "Quel roi demanda une parole de l’Éternel après avoir eu la parole de nombreux faux prophètes ?",
         "response": "1 Rois 22:7"
     },
     {
-        "question": "Quel roi demanda une parole de Jéhovah après avoir eu la parole de nombreux faux prophètes ?",
+        "question": "Quelle armée comportait 700 hommes d’élite gauchers ?",
         "response": "Josué 20:16"
     },
     {
-        "question": "Quelle armée comportait 700 hommes d’élite gauchers ?",
+        "question": "Quand est-ce qu’un homme eut à donner des ordres pour sa maison avant de mourir ?",
         "response": "Ésaïe 38:1"
     },
     {
-        "question": "Quand est-ce qu’un homme eut à donner des ordres pour sa maison avant de mourir ?",
+        "question": "Quelles sont les seules femmes dont la Bible rapporte qu’elles se soient embrassées ?",
         "response": "Ruth 1:9,14"
     },
     {
-        "question": "Quelles sont les seules femmes dont la Bible rapporte qu’elles se soient embrassées ?",
+        "question": "Où est-on mis en garde de ne pas aller trop souvent chez nos amis ?",
         "response": "Proverbes 25:17"
     },
     {
-        "question": "Où est-on mis en garde de ne pas aller trop souvent chez nos amis ?",
+        "question": "De tous les lieux mentionnés dans l’Écriture, quel est celui qui a le nom le plus long ?",
         "response": "1 Samuel 23:28 ; Deutéronome 10:6"
     },
     {
-        "question": "De tous les lieux mentionnés dans l’Écriture, quel est celui qui a le nom le plus long ?",
+        "question": "Où des hommes nobles ont-ils creusé des puits ?",
         "response": "Nombres 21:18"
     },
     {
-        "question": "Où des hommes nobles ont-ils creusé des puits ?",
+        "question": "Quelle créature est-elle dite être magnifique par la force de ses boucliers ?",
         "response": "Job 41:6"
     },
     {
-        "question": "Quelle créature est-elle dite être magnifique par la force de ses boucliers ?",
+        "question": "Quand est-ce qu’un roi s’assit sous un arbre, avec une lance dans sa main ?",
         "response": "1 Samuel 22:6"
     },
     {
-        "question": "Quand est-ce qu’un roi s’assit sous un arbre, avec une lance dans sa main ?",
+        "question": "Qui se lia les pieds et les mains avec la ceinture d’un autre homme ?",
         "response": "Actes 21:11"
     },
     {
-        "question": "Qui se lia les pieds et les mains avec la ceinture d’un autre homme ?",
+        "question": "Quel verset de l’Ancien Testament parle d’une épée qui sera « enivrée dans les cieux » ?",
         "response": "Ésaïe 34:5"
     },
     {
-        "question": "Quel verset de l’Ancien Testament parle d’une épée qui sera « enivrée dans les cieux » ?",
+        "question": "Quel est le nom de personne le plus cité dans l’Écriture ?",
         "response": "David"
     },
     {
-        "question": "Quel est le nom de personne le plus cité dans l’Écriture ?",
+        "question": "Quel chef militaire eut le crâne brisé par un objet lancé par une femme ?",
         "response": "Juges 9:53"
     },
     {
-        "question": "Quel chef militaire eut le crâne brisé par un objet lancé par une femme ?",
+        "question": "Qui n’a pas pleuré quand sa femme est morte ?",
         "response": "Ézéchiel 24:16-18"
     },
     {
-        "question": "Qui n’a pas pleuré quand sa femme est morte ?",
+        "question": "Où est-il parlé de pommes d’or ?",
         "response": "Proverbes 25:11"
     },
     {
-        "question": "Où est-il parlé de pommes d’or ?",
+        "question": "De quelle ville est-il dit qu’elle a été une coupe d’or dans la main de l’Éternel ?",
         "response": "Jérémie 51:7"
     },
     {
-        "question": "De quelle ville est-il dit qu’elle a été une coupe d’or dans la main de Jéhovah ?",
-        "response": "Révélations 17:4"
-    },
-    {
         "question": "De quelle ville est-il dit qu’elle était comme une femme ayant une coupe d’or pleine d’abominations ?",
-        "response": "2 Samuel 20:9"
+        "response": "Apocalypse 17:4"
     },
     {
         "question": "Qui, dans l’Ancien Testament, fut trahi par un baiser ?",
-        "response": "Jérémie 13:4-7"
+        "response": "2 Samuel 20:9"
     },
     {
         "question": "Qui gâcha sa ceinture en la cachant dans un creux humide ?",
-        "response": "Job 30:29"
+        "response": "Jérémie 13:4-7"
     },
     {
         "question": "Qui décrit sa misère comme le faisant frère des chacals ?",
-        "response": "Michée 1:8"
+        "response": "Job 30:29"
     },
     {
         "question": "Où est-il dit que les chacals se lamentent ?",
-        "response": "Révélations 6:6"
+        "response": "Michée 1:8"
     },
     {
         "question": "Où peut-on lire que le froment coûte trois fois le prix de l’orge ?",
-        "response": "Osée 13:3"
+        "response": "Apocalypse 6:6"
     },
     {
         "question": "Où est-il parlé d’idolâtre aussi peu solide que la fumée sortant de la grille d’une cheminée ?",
-        "response": "2 Samuel 12:31"
+        "response": "Osée 13:3"
     },
     {
         "question": "Quelles personnes passèrent par un four à briques ?",
-        "response": "Lévitique 11:30"
+        "response": "2 Samuel 12:31"
     },
     {
         "question": "Où est-ce que la Bible mentionne le caméléon ?",
-        "response": "Jérémie 5:27"
+        "response": "Lévitique 11:30"
     },
     {
         "question": "À quoi est comparée une cage à oiseaux ?",
-        "response": "Luc 14:21"
+        "response": "Jérémie 5:27"
     },
     {
         "question": "Où est-il indiqué d’aller dans les ruelles d’une ville ?",
-        "response": "1 Samuel 30:17"
+        "response": "Luc 14:21"
     },
     {
         "question": "Quand est-ce qu’une armée entière fut exterminée, hormis 400 jeunes hommes qui s’échappèrent sur des chameaux ?",
-        "response": "Ézéchiel 28:12-14"
+        "response": "1 Samuel 30:17"
     },
     {
         "question": "De qui est-il dit qu’il marchait parmi les pierres de feu ?",
-        "response": "1 Samuel 20:19-22,35-39"
+        "response": "Ézéchiel 28:12-14"
     },
     {
         "question": "Quand est-ce qu’un archer donna un signal secret par la manière dont il tira des flèches ?",
-        "response": "Ruth 2:14"
+        "response": "1 Samuel 20:19-22,35-39"
     },
     {
         "question": "Où peut-on lire que des moissonneurs avaient pour repas du pain et du vinaigre pendant la moisson ?",
-        "response": "Nombres 7"
+        "response": "Ruth 2:14"
     },
     {
         "question": "Quel est le plus long chapitre du Pentateuque ?",
-        "response": "Malachie 2:11"
+        "response": "Nombres 7"
     },
     {
         "question": "Qui se maria à la fille d’un dieu étranger ?",
-        "response": "1 Chroniques 25:5"
+        "response": "Malachie 2:11"
     },
     {
         "question": "Quel voyant avait quatorze fils et treize filles ?",
-        "response": "Ézéchiel 27:2,3,15"
+        "response": "1 Chroniques 25:5"
     },
     {
         "question": "Quelle ville reçut en présent des dents d’ivoire et de l’ébène ?",
-        "response": "Deutéronome 32:33"
+        "response": "Ézéchiel 27:2,3,15"
     },
     {
         "question": "Où le vin est-il comparé à un venin de monstres ?",
-        "response": "1 Samuel 14:43-45"
+        "response": "Deutéronome 32:33"
     },
     {
         "question": "Quand est-ce que du miel faillit être fatal à un prince ?",
-        "response": "1 Samuel 19:24"
+        "response": "1 Samuel 14:43-45"
     },
     {
         "question": "Quel roi enleva ses vêtements et resta nu pendant un jour et une nuit ?",
-        "response": "Zacharie 14:20"
+        "response": "1 Samuel 19:24"
     },
     {
         "question": "Quel verset de l’Ancien Testament mentionne des clochettes, des chaudières et des bassins ?",
-        "response": "Ecclésiaste 7:26"
+        "response": "Zacharie 14:20"
     },
     {
         "question": "De quelle femme est-il dit qu’elle est plus amère que la mort ?",
-        "response": "Ruth 4:11"
+        "response": "Ecclésiaste 7:26"
     },
     {
         "question": "Quelles sont les deux sœurs dont il est dit qu’elles bâtirent la maison d’Israël ?",
-        "response": "Actes 27:37-44"
+        "response": "Ruth 4:11"
     },
     {
         "question": "Quand est-ce que 276 personnes furent-elles sauvées de la noyade ?",
-        "response": "1 Samuel 30:11-20"
+        "response": "Actes 27:37-44"
     },
     {
         "question": "Quand est-ce qu’un Égyptien affamé conduisit-il des soldats Hébreux à la victoire ?",
-        "response": "Juges 17:1-4"
+        "response": "1 Samuel 30:11-20"
     },
     {
         "question": "Quand est-ce qu’un homme rendit 1100 pièces d’argent volées à sa mère ?",
-        "response": "Genèse 31:19-30"
+        "response": "Juges 17:1-4"
     },
     {
         "question": "Quand une femme vola-t-elle quelque chose à son père ?",
-        "response": "Esther"
+        "response": "Genèse 31:19-30"
     },
     {
         "question": "Quel livre de la Bible ne mentionne pas le nom de Dieu ?",
-        "response": "Ésaïe 56:10"
+        "response": "Esther"
     },
     {
         "question": "Qui est comparé à des chiens muets incapables d’aboyer ?",
-        "response": "Juges 3:15"
+        "response": "Ésaïe 56:10"
     },
     {
         "question": "Quel gaucher fut amené à délivrer Israël ?",
-        "response": "Jérémie 6:15 ; 8:12"
+        "response": "Juges 3:15"
     },
     {
         "question": "Quel prophète dénonça la honte de ceux qui ne savent pas ce que c’est d’être confus ?",
-        "response": "1 Samuel 15:27"
+        "response": "Jérémie 6:15 ; 8:12"
     },
     {
         "question": "Quel roi déchira la robe d’un prophète ?",
-        "response": "Ecclésiaste 5:2"
+        "response": "1 Samuel 15:27"
     },
     {
         "question": "Où est-ce que l’Ancien Testament nous exhorte à faire de courtes prières ?",
-        "response": "Exode 4:24"
+        "response": "Ecclésiaste 5:2"
     },
     {
         "question": "De quel homme peut-on lire que Dieu vint contre lui et chercha à le faire mourir ?",
+        "response": "Exode 4:24"
+    },
+    {
+        "question": "Qui était averti à faire attention à ce que l’Éternel ne se jette par contre eux ?",
         "response": "Exode 19:22, 24"
     },
     {
-        "question": "Qui était averti à faire attention à ce que Jéhovah ne se jette par contre eux ?",
+        "question": "Quand est-ce qu’un père et sa fille furent brûlés vivants ?",
         "response": "Juges 15:6"
     },
     {
-        "question": "Quand est-ce qu’un père et sa fille furent brûlés vivants ?",
+        "question": "Quand est-ce que les Israélites offrirent de payer de l’eau à boire ?",
         "response": "Nombres 20:19"
     },
     {
-        "question": "Quand est-ce que les Israélites offrirent de payer de l’eau à boire ?",
+        "question": "Qui dressa une grande pierre pour témoignage sous un chêne ?",
         "response": "Josué 24:26-27"
     },
     {
-        "question": "Qui dressa une grande pierre pour témoignage sous un chêne ?",
+        "question": "Quel verset parle de commerce d’argent, d’étain, de fer et de plomb ?",
         "response": "Ézéchiel 27:12"
     },
     {
-        "question": "Quel verset parle de commerce d’argent, d’étain, de fer et de plomb ?",
+        "question": "Quel prophète fut emprisonné pour bien des jours dans une cave ?",
         "response": "Jérémie 37:16"
     },
     {
-        "question": "Quel prophète fut emprisonné pour bien des jours dans une cave ?",
+        "question": "Où est-ce que l’Écriture parle d’une poêle à frire ?",
         "response": "Lévitique 2:7 ; 7:9"
     },
     {
-        "question": "Où est-ce que l’Écriture parle d’une poêle à frire ?",
+        "question": "Donner le nom de la personne mise dans un cercueil après avoir été embaumé.",
         "response": "Genèse 50:26"
     },
     {
-        "question": "Donner le nom de la personne mise dans un cercueil après avoir été embaumé.",
+        "question": "Où est-ce que l’Écriture mentionne-t-elle le moyeu d’une roue ?",
         "response": "1 Rois 7:33"
     },
     {
-        "question": "Où est-ce que l’Écriture mentionne-t-elle le moyeu d’une roue ?",
+        "question": "Dans quelles circonstances les Israélites avaient-ils l’ordre de briser la nuque d’un ânon ?",
         "response": "Exode 34:20"
     },
     {
-        "question": "Dans quelles circonstances les Israélites avaient-ils l’ordre de briser la nuque d’un ânon ?",
+        "question": "Quand est-ce que le message d’un ange fit pleurer une multitude ?",
         "response": "Juges 2:4"
     },
     {
-        "question": "Quand est-ce que le message d’un ange fit pleurer une multitude ?",
+        "question": "Quel chef victorieux refusa d’être roi d’Israël ?",
         "response": "Juges 8:22-23"
     },
     {
-        "question": "Quel chef victorieux refusa d’être roi d’Israël ?",
+        "question": "De qui est-il dit que son aspect était comme l’éclair ?",
         "response": "Matthieu 28:3"
     },
     {
-        "question": "De qui est-il dit que son aspect était comme l’éclair ?",
+        "question": "Quand est-ce que l’Éternel ne voulait plus écouter les cantiques ?",
         "response": "Amos 5:23"
     },
     {
-        "question": "Quand est-ce que Jéhovah ne voulait plus écouter les cantiques ?",
+        "question": "Quelle idole fut faite à partir de pendants d’oreille ?",
         "response": "Exode 32:3-4 ; Juges 8:26, 27"
     },
     {
-        "question": "Quelle idole fut faite à partir de pendants d’oreille ?",
+        "question": "Où peut-on lire qu’un sculpteur d’idoles prépare son bois en faisant des plantations ?",
         "response": "Ésaïe 44:13-14"
     },
     {
-        "question": "Où peut-on lire qu’un sculpteur d’idoles prépare son bois en faisant des plantations ?",
+        "question": "Quel homme impie reçu 70 pièces d’argent d’un temple d’idole ?",
         "response": "Juges 9:4,46"
     },
     {
-        "question": "Quel homme impie reçu 70 pièces d’argent d’un temple d’idole ?",
+        "question": "En quelles circonstances était-il interdit aux Israélites de tuer une brebis et son agneau le même jour ?",
         "response": "Lévitique 22:27-28"
     },
     {
-        "question": "En quelles circonstances était-il interdit aux Israélites de tuer une brebis et son agneau le même jour ?",
+        "question": "Qui déclara que le jour de la mort vaut mieux que celui de la naissance ?",
         "response": "Ecclésiaste 7:1"
     },
     {
-        "question": "Qui déclara que le jour de la mort vaut mieux que celui de la naissance ?",
+        "question": "Où la Bible décrit-elle un combat entre un bouc et un bélier ?",
         "response": "Daniel 8:5-7"
     },
     {
-        "question": "Où la Bible décrit-elle un combat entre un bouc et un bélier ?",
+        "question": "Quels sont les proverbes comparés aux jambes du boiteux ?",
         "response": "Proverbes 26:7"
     },
     {
-        "question": "Quels sont les proverbes comparés aux jambes du boiteux ?",
+        "question": "Où peut-on lire que les cheveux d’une femme ont été comme la pourpre ?",
         "response": "Cantique des Cantiques 7:5"
     },
     {
-        "question": "Où peut-on lire que les cheveux d’une femme ont été comme la pourpre ?",
+        "question": "Où est-ce que la Bible mentionne la mouette ?",
         "response": "Lévitique 11:16"
     },
     {
-        "question": "Où est-ce que la Bible mentionne la mouette ?",
+        "question": "Où est-il écrit que la neige est rafraîchissante en un temps de moisson ?",
         "response": "Proverbes 25:13"
     },
     {
-        "question": "Où est-il écrit que la neige est rafraîchissante en un temps de moisson ?",
+        "question": "Quel curieux commandement était exigé des Israélites pour la cuisson d’un chevreau ?",
         "response": "Exode 23:19"
     },
     {
-        "question": "Quel curieux commandement était exigé des Israélites pour la cuisson d’un chevreau ?",
+        "question": "Qui invita tous ses frères à un banquet, et s’arrangea pour l’un d’entre eux fut tué ?",
         "response": "2 Samuel 13:23-33"
     },
     {
-        "question": "Qui invita tous ses frères à un banquet, et s’arrangea pour l’un d’entre eux fut tué ?",
+        "question": "Quelle femme demanda un cadeau de mariage à son père ?",
         "response": "Juges 1:13-15"
     },
     {
-        "question": "Quelle femme demanda un cadeau de mariage à son père ?",
+        "question": "Quel prophète confessa que ses pensées le troublèrent beaucoup ?",
         "response": "Daniel 7:28"
     },
     {
-        "question": "Quel prophète confessa que ses pensées le troublèrent beaucoup ?",
+        "question": "Quelle prophétesse se décrivit elle-même comme une mère en Israël ?",
         "response": "Juges 5:7"
     },
     {
-        "question": "Quelle prophétesse se décrivit elle-même comme une mère en Israël ?",
+        "question": "Qui prit par erreur des chants pour un bruit de guerre ?",
         "response": "Exode 32:17-18"
     },
     {
-        "question": "Qui prit par erreur des chants pour un bruit de guerre ?",
+        "question": "Quel prophète compare Israël à une dromadaire légère ?",
         "response": "Jérémie 2:23"
     },
     {
-        "question": "Quel prophète compare Israël à une dromadaire légère ?",
+        "question": "Quel prophète est décrit comme étant vêtu de poil ?",
         "response": "2 Rois 1:8 ;  Matthieu 3:4 et Marc 1 6"
     },
     {
-        "question": "Quel prophète est décrit comme étant vêtu de poil ?",
+        "question": "Où est-il écrit qu’une hache émoussée coûte des efforts à celui qui l’emploie ?",
         "response": "Ecclésiaste 10:10"
     },
     {
-        "question": "Où est-il écrit qu’une hache émoussée coûte des efforts à celui qui l’emploie ?",
+        "question": "Qui étaient prêt à livrer à l’ennemi celui qui voulait les en délivrer ?",
         "response": "Juges 15:11"
     },
     {
-        "question": "Qui étaient prêt à livrer à l’ennemi celui qui voulait les en délivrer ?",
+        "question": "Où a-t-on le récit de la défaite d’une armée d’un million d’hommes ?",
         "response": "2 Chroniques 14:9-12"
     },
     {
-        "question": "Où a-t-on le récit de la défaite d’une armée d’un million d’hommes ?",
+        "question": "Quel roi d’Israël leva un impôt de 50 sicles d’argent sur tous les gens fortunés ?",
         "response": "2 Rois 15:20"
     },
     {
-        "question": "Quel roi d’Israël leva un impôt de 50 sicles d’argent sur tous les gens fortunés ?",
+        "question": "Où est-ce que le Nouveau Testament parle du greffage des arbres ?",
         "response": "Romains 11:17-24"
     },
     {
-        "question": "Où est-ce que le Nouveau Testament parle du greffage des arbres ?",
+        "question": "Quel prophète fut accusé d’avoir conspiré contre un roi ?",
         "response": "Amos 7:10 ; Jérémie 37:14"
     },
     {
-        "question": "Quel prophète fut accusé d’avoir conspiré contre un roi ?",
+        "question": "Quel roi d’Israël fut emprisonné pour conspiration ?",
         "response": "2 Rois 17:1-4"
     },
     {
-        "question": "Quel roi d’Israël fut emprisonné pour conspiration ?",
+        "question": "Quel prophète fut accusé de trahir sa patrie ?",
         "response": "Jérémie 37:14"
     },
     {
-        "question": "Quel prophète fut accusé de trahir sa patrie ?",
+        "question": "Quel prince ordonna à ses serviteurs de mettre le feu à un champ d’orge ?",
         "response": "2 Samuel 14:28-30"
     },
     {
-        "question": "Quel prince ordonna à ses serviteurs de mettre le feu à un champ d’orge ?",
+        "question": "Quand est-ce qu’un conspirateur se suicida après son échec ?",
         "response": "2 Samuel 15:31 ; 17:23"
     },
     {
-        "question": "Quand est-ce qu’un conspirateur se suicida après son échec ?",
+        "question": "Où est-il parlé de battre un olivier pour récolter les olives ?",
         "response": "Deutéronome 24:20"
     },
     {
-        "question": "Où est-il parlé de battre un olivier pour récolter les olives ?",
+        "question": "Quand est-ce que la femme d’un homme impie l’avertit-elle de sa chute prochaine ?",
         "response": "Esther 6:13"
     },
     {
-        "question": "Quand est-ce que la femme d’un homme impie l’avertit-elle de sa chute prochaine ?",
+        "question": "Où trouve-t-on des marins dont la sagesse est venue à néant ?",
         "response": "Psaumes 107:27"
     },
     {
-        "question": "Où trouve-t-on des marins dont la sagesse est venue à néant ?",
+        "question": "Combien de fois l’apôtre Paul fit-il naufrage ?",
         "response": "2 Corinthiens 11:25 ; Actes 27"
     },
     {
-        "question": "Combien de fois l’apôtre Paul fit-il naufrage ?",
+        "question": "Où la Bible mentionne-elle les cordes de chariot ?",
         "response": "Ésaïe 5:18"
     },
     {
-        "question": "Où la Bible mentionne-elle les cordes de chariot ?",
+        "question": "Où nous est-il dit de ne pas nous étonner de l’oppression du pauvre ?",
         "response": "Ecclésiaste 5:8"
     },
     {
-        "question": "Où nous est-il dit de ne pas nous étonner de l’oppression du pauvre ?",
+        "question": "Quels sont les deux rois qui avaient de petites lunes aux cous de leurs chameaux ?",
         "response": "Juges 8:12,21"
     },
     {
-        "question": "Quels sont les deux rois qui avaient de petites lunes aux cous de leurs chameaux ?",
+        "question": "Qui prédit que les os des rois de Juda seraient sortis de leurs sépulcres et répandus pour fumier sur la face du sol ?",
         "response": "Jérémie 8:1-2"
     },
     {
-        "question": "Qui prédit que les os des rois de Juda seraient sortis de leurs sépulcres et répandus pour fumier sur la face du sol ?",
+        "question": "Quand est-ce que des colonisateurs installés en Terre Sainte furent tués par des lions ?",
         "response": "2 Rois 17:24-26"
     },
     {
-        "question": "Quand est-ce que des colonisateurs installés en Terre Sainte furent tués par des lions ?",
+        "question": "Quand un roi décréta-t-il que les hommes comme les bêtes devaient jeûner et être couverts d’un sac ?",
         "response": "Jonas 3:6-8"
     },
     {
-        "question": "Quand un roi décréta-t-il que les hommes comme les bêtes devaient jeûner et être couverts d’un sac ?",
+        "question": "Quel prophète vit en vision Satan se tenant à la droite du grand sacrificateur ?",
         "response": "Zacharie 3:1"
     },
     {
-        "question": "Quel prophète vit en vision Satan se tenant à la droite du grand sacrificateur ?",
-        "response": "Révélations 16:13"
-    },
-    {
         "question": "À qui des esprits immondes apparurent comme des grenouilles ?",
-        "response": "2 Samuel 14:1-6"
+        "response": "Apocalypse 16:13"
     },
     {
         "question": "Quand est-ce qu’une femme habile se déguisa en veuve ?",
-        "response": "Révélations 12:16"
+        "response": "2 Samuel 14:1-6"
     },
     {
         "question": "Où est-il écrit que la terre s’ouvrit pour aider une femme ?",
-        "response": "Nombres 16:32"
+        "response": "Apocalypse 12:16"
     },
     {
         "question": "Où est-il écrit que la terre s’ouvrit pour engloutir des hommes ?",
-        "response": "Actes 16:26"
+        "response": "Nombres 16:32"
     },
     {
         "question": "Quand est-ce qu’un tremblement de terre ouvrit les portes d’une prison ?",
-        "response": "2 Thessaloniciens 3:11-12 ; 1 Pierre 4:15"
+        "response": "Actes 16:26"
     },
     {
         "question": "Quel apôtre condamne ceux qui se mêlent des affaires des autres ?",
-        "response": "Juges 16:16"
+        "response": "2 Thessaloniciens 3:11-12 ; 1 Pierre 4:15"
     },
     {
         "question": "Quelle est la personne décrite comme ennuyée jusqu’à la mort ?",
-        "response": "Jérémie 46:20"
+        "response": "Juges 16:16"
     },
     {
         "question": "Où l’Égypte est-elle comparée à une très-belle génisse ?",
-        "response": "Genèse 16:1-3,11-12 ; 21:9-21"
+        "response": "Jérémie 46:20"
     },
     {
         "question": "Donner le nom de l’homme sauvage qui avait une mère et une femme Égyptiennes.",
-        "response": "2 Samuel 4:4 ; 9:13"
+        "response": "Genèse 16:1-3,11-12 ; 21:9-21"
     },
     {
         "question": "Quand est-ce qu’un enfant devint boiteux parce que sa nourrice l’avait laissé tomber ?",
-        "response": "Genèse 19:30"
+        "response": "2 Samuel 4:4 ; 9:13"
     },
     {
         "question": "De quel homme est-il écrit qu’il habita dans une caverne ?",
-        "response": "1 Samuel 22:1"
+        "response": "Genèse 19:30"
     },
     {
         "question": "De quel homme est-il écrit qu’il se sauva dans une caverne ?",
-        "response": "Jean 11:17,38"
+        "response": "1 Samuel 22:1"
     },
     {
         "question": "Quelle est la personne dont le Nouveau Testament dit qu’elle fut enterrée dans une grotte ?",
-        "response": "Jérémie 9:11 ; 10:22 ; 49:33 ; 51:37"
+        "response": "Jean 11:17,38"
     },
     {
         "question": "Quel prophète parle de repaires de chacals ?",
-        "response": "2 Rois 25:6-7"
+        "response": "Jérémie 9:11 ; 10:22 ; 49:33 ; 51:37"
     },
     {
         "question": "Quel roi vit ses fils tués devant lui ?",
-        "response": "Jude 14"
+        "response": "2 Rois 25:6-7"
     },
     {
         "question": "Quel est le premier homme dont il est écrit qu’il ait prophétisé ?",
-        "response": "Ésaïe 21:7"
+        "response": "Jude 14"
     },
     {
         "question": "Où peut-on lire qu’un chariot fut tiré par des chameaux ?",
-        "response": "Luc 14:28"
+        "response": "Ésaïe 21:7"
     },
     {
         "question": "Où la Bible parle-t-elle des estimations d’un bâtisseur ?",
-        "response": "Genèse 36:24"
+        "response": "Luc 14:28"
     },
     {
         "question": "Qui trouva des sources d’eau chaude dans un désert ?",
-        "response": "Juges 14:5-6 ; 1 Samuel 17:36 ; 2 Samuel 23:20"
+        "response": "Genèse 36:24"
     },
     {
         "question": "Quels sont les trois hommes qui tuèrent chacun un lion ?",
-        "response": "2 Timothée 3:8"
+        "response": "Juges 14:5-6 ; 1 Samuel 17:36 ; 2 Samuel 23:20"
     },
     {
         "question": "Qui étaient Jannès et Jambrès ?",
-        "response": "2 Samuel 13:29"
+        "response": "2 Timothée 3:8"
     },
     {
         "question": "Où peut-on lire que les fils de David montèrent sur des mulets ?",
-        "response": "Jérémie 52:31-34"
+        "response": "2 Samuel 13:29"
     },
     {
         "question": "Quand est-ce qu’un roi de Babylone parla avec bonté à un roi de Juda ?",
-        "response": "Genèse 20:7"
+        "response": "Jérémie 52:31-34"
     },
     {
         "question": "Où Abraham est-il qualifié de prophète ?",
-        "response": "Actes 3:15"
+        "response": "Genèse 20:7"
     },
     {
         "question": "Qui parla de Christ comme le prince de la vie ?",
-        "response": "Ézéchiel 25:5"
+        "response": "Actes 3:15"
     },
     {
         "question": "Quel prophète parle de pâturage pour les chameaux ?",
-        "response": "Psaumes 80:13"
+        "response": "Ézéchiel 25:5"
     },
     {
         "question": "Où la Bible mentionne-t-elle le sanglier ?",
-        "response": "Genèse 29:34 ; 30:21 ; ch. 34"
+        "response": "Psaumes 80:13"
     },
     {
         "question": "Quel était le nom de la sœur de Lévi ?",
-        "response": "Colossiens 4:6"
+        "response": "Genèse 29:34 ; 30:21 ; ch. 34"
     },
     {
         "question": "Qui recommanda aux chrétiens que leur parole soit assaisonnée de sel ?",
-        "response": "Révélations 13:17"
+        "response": "Colossiens 4:6"
     },
     {
         "question": "Quand exigera-t-on d’avoir un nombre, un nom ou une marque pour acheter et vendre  ?",
-        "response": "Ésaïe 17:10-11"
+        "response": "Apocalypse 13:17"
     },
     {
         "question": "Quel prophète fait allusion à des semailles de ceps de vigne et des plantations agréables, mais n’aboutissant à aucune récolte ?",
-        "response": "Juges 8:7,16"
+        "response": "Ésaïe 17:10-11"
     },
     {
         "question": "Quelle était la ville dont les anciens eurent leur chair broyée par des épines ?",
-        "response": "2 Samuel 23:9-10"
+        "response": "Juges 8:7,16"
     },
     {
         "question": "Qui frappa des ennemis du peuple d’Israël jusqu’à ce que sa main demeura attachée à son épée ?",
-        "response": "Jérémie 51:20"
+        "response": "2 Samuel 23:9-10"
     },
     {
         "question": "Où Israël est-il décrit comme le marteau de Dieu ?",
-        "response": "Jérémie 23:29"
+        "response": "Jérémie 51:20"
     },
     {
         "question": "Où la Parole de Dieu est-elle comparée à un marteau qui brise le roc ?",
-        "response": "Nombres 23:14"
+        "response": "Jérémie 23:29"
     },
     {
         "question": "Qui offrit des sacrifices au sommet du Pisga ?",
-        "response": "2 Rois 17:4"
+        "response": "Nombres 23:14"
     },
     {
         "question": "Quel pays fut un temps gouverné par un roi nommé Sô ?",
-        "response": "Joël 1:12"
+        "response": "2 Rois 17:4"
     },
     {
         "question": "Quel prophète mentionne un desséchement de toutes les cultures de vigne, figuier, grenadier, palmier et pommier ?",
-        "response": "Luc 21:25"
+        "response": "Joël 1:12"
     },
     {
         "question": "Quel verset du Nouveau Testament parle du grand bruit de la mer ?",
-        "response": "Jonas 2:6"
+        "response": "Luc 21:25"
     },
     {
         "question": "Qui déclara que les algues avaient enveloppé sa tête ?",
-        "response": "Exode 4:27"
+        "response": "Jonas 2:6"
     },
     {
         "question": "Où peut-on lire que Moïse reçut un baiser ?",
-        "response": "Exode 18:7"
+        "response": "Exode 4:27"
     },
     {
         "question": "Où peut-on lire que Moïse donna un baiser ?",
-        "response": "Genèse 26:34-35"
+        "response": "Exode 18:7"
     },
     {
         "question": "Quels parents eurent de l’amertume d’esprit à cause des femmes choisies par leur fils ?",
-        "response": "2 Pierre 2:7-8"
+        "response": "Genèse 26:34-35"
     },
     {
         "question": "Quel est l’homme juste qui tourmentait son âme de jour en jour ?",
-        "response": "Jérémie 41:2-9"
+        "response": "2 Pierre 2:7-8"
     },
     {
         "question": "Quand est-ce que 70 hommes furent tués et leurs corps jetés dans une fosse remplie de leurs cadavres ?",
-        "response": "Genèse 24:65"
+        "response": "Jérémie 41:2-9"
     },
     {
         "question": "Quelle est la première femme ayant mis un voile ?",
-        "response": "Hébreux 9:16-17"
+        "response": "Genèse 24:65"
     },
     {
         "question": "Où est-il rappelé qu’un testament n’a pas de force tant que le testateur vit ?",
-        "response": "Exode 18:13-24"
+        "response": "Hébreux 9:16-17"
     },
     {
         "question": "Quand est-ce qu’un homme écouta le conseil de son beau-père ?",
-        "response": "Joël 2:17"
+        "response": "Exode 18:13-24"
     },
     {
         "question": "Quand est-ce qu’il fut demandé aux sacrificateurs juifs de pleurer entre le portique et l’autel ?",
-        "response": "Jérémie 50:38"
+        "response": "Joël 2:17"
     },
     {
         "question": "Quel peuple est décrit comme fous de leurs affreuses idoles ?",
-        "response": "Malachie 3:8-9"
+        "response": "Jérémie 50:38"
     },
     {
         "question": "Quel prophète parle d’hommes qui frustraient Dieu ?",
-        "response": "Genèse 19:10-11"
+        "response": "Malachie 3:8-9"
     },
     {
         "question": "Quels sont les premiers hommes dont il est écrit qu’ils furent frappés d’aveuglement à cause de leurs péchés ?",
-        "response": "Exode 19:14"
+        "response": "Genèse 19:10-11"
     },
     {
         "question": "Où peut-on lire qu’une nation entière lava ses vêtements ?",
-        "response": "Exode 23:14-16 ; 34:22"
+        "response": "Exode 19:14"
     },
     {
         "question": "Quelle fête les Israélites reçurent l’ordre de garder à la fin de l’année ?",
-        "response": "2 Chroniques 22:11 ; 24:15"
+        "response": "Exode 23:14-16 ; 34:22"
     },
     {
         "question": "Donner le nom du sacrificateur Juif qui se maria à la sœur d’un roi et vécu cent trente ans.",
-        "response": "Révélations 21:16"
+        "response": "2 Chroniques 22:11 ; 24:15"
     },
     {
         "question": "Quelle ville a une forme cubique ?",
-        "response": "2 Jean 11"
+        "response": "Apocalypse 21:16"
     },
     {
         "question": "Dans l’Ancien Testament (une seule fois) et dans le Nouveau (une seule fois), où trouve-t-on qu’une pierre fut scellée ?",

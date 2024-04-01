@@ -3,7 +3,7 @@
   width: 100%;
 }
 
-.App .ant-modal-confirm-content{
+.App .ant-modal-confirm-content {
   font-size: 2em !important;
 }
 
@@ -32,6 +32,10 @@
 
 .App .App-layout .App-content .App-card {
   width: 50%;
+}
+
+.ant-card-head-title {
+  font-size: 1.5em;
 }
 
 .App .App-layout .App-content .App-question {

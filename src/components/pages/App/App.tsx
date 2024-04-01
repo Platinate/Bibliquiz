@@ -13,18 +13,25 @@ const App: React.FC = () => {
   const [state, setState] = React.useState<IQuestion>({ index: -1, question: "", response: "" });
   const [isModalOpen, setIsModalOpen] = React.useState(false);
 
-  React.useEffect(() => {
-    const question = localStorage.getItem('question');
-    if (question === null) return;
-    setState(JSON.parse(question));
-  }, [])
-
-  const handleOnNewQuestionClick = () => {
+  const selectNewQuestion = () => {
     const max = questions.length;
     const newQuestionIndex = Math.floor(Math.random() * max);
     const newQuestion = questions[newQuestionIndex] as IQuestion;
     setState({ ...newQuestion, index: newQuestionIndex });
     localStorage.setItem("question", JSON.stringify({ ...newQuestion, index: newQuestionIndex }))
+  }
+
+  React.useEffect(() => {
+    const question = localStorage.getItem('question');
+    if (question === null) {
+      selectNewQuestion();
+    } else {
+      setState(JSON.parse(question));
+    }
+  }, [])
+
+  const handleOnNewQuestionClick = () => {
+    selectNewQuestion();
   }
 
   const handleOnShowResponseClick = () => {
@@ -38,7 +45,7 @@ const App: React.FC = () => {
           <img className='App-logo' src={logo} alt="Bibliquiz" height="36" />
         </Header>
         <Content className='App-content'>
-          <Card className='App-card'>
+          <Card title={`Question ${state.index + 1} sur ${questions.length}`} className='App-card'>
             <p className='App-question'>{state.question}</p>
             <Divider />
             <div className='App-card-footer'>
@@ -48,8 +55,8 @@ const App: React.FC = () => {
           </Card>
         </Content>
       </Layout>
-      <Modal open={isModalOpen} onOk={() => setIsModalOpen(false)} centered closable={false} okButtonProps={{style: {height: 48, fontSize: '1.5em'}}} cancelButtonProps={{style:{display: 'none'}}}>
-        <p style={{fontSize: "2em", textAlign: "center"}}>{state.response}</p>
+      <Modal open={isModalOpen} onOk={() => setIsModalOpen(false)} centered closable={false} okButtonProps={{ style: { height: 48, fontSize: '1.5em' } }} cancelButtonProps={{ style: { display: 'none' } }}>
+        <p style={{ fontSize: "2em", textAlign: "center" }}>{state.response}</p>
       </Modal>
     </div>
   );
