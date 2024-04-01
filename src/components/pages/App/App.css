@@ -1,0 +1,62 @@
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+.App .ant-modal-confirm-content{
+  font-size: 2em !important;
+}
+
+.App .App-layout {
+  height: 100%;
+  width: 100%;
+}
+
+.App .App-layout .App-header {
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+
+.App .App-layout .App-header .App-logo {
+  height: 28px;
+  display: block;
+}
+
+.App .App-layout .App-content {
+  height: calc(100 - 64px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App .App-layout .App-content .App-card {
+  width: 50%;
+}
+
+.App .App-layout .App-content .App-question {
+  font-size: 2em;
+  text-align: center;
+}
+
+.App .App-layout .App-content .App-card .App-card-footer {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.App .App-layout .App-content .App-card .App-card-footer .App-button {
+  height: 48px;
+  width: 300px;
+  font-size: 1.5em;
+}
+
+.App .App-layout .App-content .App-card .App-card-footer .App-button.App-button--response {
+  background-color: green;
+  color: white;
+}
+
+.App .App-layout .App-content .App-card .App-card-footer .App-button.App-button--next {
+  background-color: blue;
+  color: white;
+}
