@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Bibliquiz/static/css/main.990fa44b.css",
-    "main.js": "/Bibliquiz/static/js/main.2c987c47.js",
+    "main.js": "/Bibliquiz/static/js/main.edff8584.js",
     "static/js/453.3b1cc4ed.chunk.js": "/Bibliquiz/static/js/453.3b1cc4ed.chunk.js",
     "static/media/logo.png": "/Bibliquiz/static/media/logo.5bffcdfa4ff3cd818422.png",
     "index.html": "/Bibliquiz/index.html",
     "main.990fa44b.css.map": "/Bibliquiz/static/css/main.990fa44b.css.map",
-    "main.2c987c47.js.map": "/Bibliquiz/static/js/main.2c987c47.js.map",
+    "main.edff8584.js.map": "/Bibliquiz/static/js/main.edff8584.js.map",
     "453.3b1cc4ed.chunk.js.map": "/Bibliquiz/static/js/453.3b1cc4ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.990fa44b.css",
-    "static/js/main.2c987c47.js"
+    "static/js/main.edff8584.js"
   ]
 }
