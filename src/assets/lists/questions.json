@@ -401,7 +401,7 @@
     },
     {
         "question": "Quelle ville n’a pas besoin du soleil pour l’éclairer ?",
-        "response": "Apocalypse 21:23"
+        "response": "Révélations 21:23"
     },
     {
         "question": "Quel roi d’Israël pratiquait les enchantements et la magie ?",
@@ -420,7 +420,7 @@
         "response": "Jérémie 2:36"
     },
     {
-        "question": "Combien de fois est-il mentionné que notre Seigneur eut faim ?",
+        "question": "Combien de fois est-il mentionné que Jésus eut faim ?",
         "response": "Matthieu 4:2 ; 21:18 ; Luc 4:2 ; Marc 11:12"
     },
     {
@@ -497,7 +497,7 @@
     },
     {
         "question": "Quels sont les anges dont on connaît les noms dans le Nouveau Testament ?",
-        "response": "Luc 1:19 ; Jude 9 ; Apocalypse 9:11"
+        "response": "Luc 1:19 ; Jude 9 ; Révélations 9:11"
     },
     {
         "question": "Qui est décrit comme premier chambellan ?",
@@ -664,12 +664,12 @@
         "response": "Actes 24:1-8"
     },
     {
-        "question": "Quel avocat les chrétiens ont-ils devant Dieu le Père ?",
+        "question": "Quel avocat les chrétiens ont-ils devant Dieu ?",
         "response": "1 Jean 2:1"
     },
     {
         "question": "Qui accuse les chrétiens devant Dieu ?",
-        "response": "Apocalypse 12:10"
+        "response": "Révélations 12:10"
     },
     {
         "question": "Où la Bible parle-t-elle du processus de fabrication du beurre ?",
@@ -689,7 +689,7 @@
     },
     {
         "question": "Où est-il parlé d’une armée de deux cents millions de cavaliers ?",
-        "response": "Apocalypse 9:16"
+        "response": "Révélations 9:16"
     },
     {
         "question": "Quelles sont les quatre personnes qui échappèrent à leurs poursuivants en passant par des fenêtres ?",
@@ -797,7 +797,7 @@
     },
     {
         "question": "Citer une veuve habillée très richement.",
-        "response": "Apocalypse 17:4 & 18:7"
+        "response": "Révélations 17:4 & 18:7"
     },
     {
         "question": "À quel prophète fut donnée une ration d’un pain par jour de la rue des boulangers ?",
@@ -824,7 +824,7 @@
         "response": "2 Rois 2:22 ; Sophonie 1:10"
     },
     {
-        "question": "Qui vit une vision où le Seigneur tenait un plomb à sa main ?",
+        "question": "Qui vit une vision où Jéhovah tenait un plomb à sa main ?",
         "response": "Amos 7:7"
     },
     {
@@ -861,7 +861,7 @@
     },
     {
         "question": "Quels sont les apôtres ayant pleuré ?",
-        "response": "Luc 22:62 ; Philippiens 3:18 ; Apocalypse 5:4"
+        "response": "Luc 22:62 ; Philippiens 3:18 ; Révélations 5:4"
     },
     {
         "question": "Quel prophète compare le roi d’Égypte à «un monstre dans les eaux» ?",
@@ -901,7 +901,7 @@
     },
     {
         "question": "Quand est-ce que le blé sera cher et le vin ne le sera pas ?",
-        "response": "Apocalypse 6:6"
+        "response": "Révélations 6:6"
     },
     {
         "question": "Quel prophète parle du fracas des roues ?",
@@ -988,7 +988,7 @@
         "response": "Genèse 35:20"
     },
     {
-        "question": "Quel prophète a été enterré par Dieu ?",
+        "question": "Quel prophète a été enterré par Jéhovah ?",
         "response": "Deutéronome 34:5,6,10"
     },
     {
@@ -1009,7 +1009,7 @@
     },
     {
         "question": "Quelles sont les personnes que le Nouveau Testament décrit comme recherchant la mort sans la trouver ?",
-        "response": "Apocalypse 9:6"
+        "response": "Révélations 9:6"
     },
     {
         "question": "Qui enterra un prophète dans son propre sépulcre ?",
@@ -1125,7 +1125,7 @@
     },
     {
         "question": "Où est-ce que le Nouveau Testament parle de Gog et Magog ?",
-        "response": "Apocalypse 20:8"
+        "response": "Révélations 20:8"
     },
     {
         "question": "Où est-ce que l’Ancien Testament parle de Gog et Magog ?",
@@ -1221,7 +1221,7 @@
     },
     {
         "question": "Quelles créatures avaient des cheveux de femmes, et des dents de lions ?",
-        "response": "Apocalypse 9:8"
+        "response": "Révélations 9:8"
     },
     {
         "question": "Quel oiseau est décrit dans l’Écriture comme ayant de grandes ailes ?",
@@ -1473,7 +1473,7 @@
     },
     {
         "question": "Quand est-ce que les oiseaux volant dans le ciel sont invités au grand souper de Dieu ?",
-        "response": "Apocalypse 19:17"
+        "response": "Révélations 19:17"
     },
     {
         "question": "Quelle femme est-elle mentionnée comme ayant ri ?",
@@ -1554,10 +1554,6 @@
     {
         "question": "Quand fut-il impossible de distinguer les cris de joie d’avec les pleurs du peuple ?",
         "response": "Esdras 3:12-13"
-    },
-    {
-        "question": "Donner des exemples de jeunes gens instruits selon Dieu.",
-        "response": "Daniel 1:4 ; 1 Timothée 6:20"
     },
     {
         "question": "Quand est-ce qu’une femme utilisa le sceau de son mari ?",
@@ -1641,7 +1637,7 @@
     },
     {
         "question": "Où peut-on lire que toute herbe verte fut brûlée ?",
-        "response": "Apocalypse 8:7"
+        "response": "Révélations 8:7"
     },
     {
         "question": "Quand est-ce qu’un ange pu être vu, se tenant parmi des myrtes ?",
@@ -1689,7 +1685,7 @@
     },
     {
         "question": "Quelle est la ville qui dit en son cœur : « Je suis assise en reine, et je ne suis point veuve » ?",
-        "response": "Apocalypse 18:2,7"
+        "response": "Révélations 18:2,7"
     },
     {
         "question": "Quel caractère a celui qui détruit lui-même sa maison ?",
@@ -1825,7 +1821,7 @@
     },
     {
         "question": "De quelle ville est-il dit qu’elle était comme une femme ayant une coupe d’or pleine d’abominations ?",
-        "response": "Apocalypse 17:4"
+        "response": "Révélations 17:4"
     },
     {
         "question": "Qui, dans l’Ancien Testament, fut trahi par un baiser ?",
@@ -1845,7 +1841,7 @@
     },
     {
         "question": "Où peut-on lire que le froment coûte trois fois le prix de l’orge ?",
-        "response": "Apocalypse 6:6"
+        "response": "Révélations 6:6"
     },
     {
         "question": "Où est-il parlé d’idolâtre aussi peu solide que la fumée sortant de la grille d’une cheminée ?",
@@ -2181,7 +2177,7 @@
     },
     {
         "question": "À qui des esprits immondes apparurent comme des grenouilles ?",
-        "response": "Apocalypse 16:13"
+        "response": "Révélations 16:13"
     },
     {
         "question": "Quand est-ce qu’une femme habile se déguisa en veuve ?",
@@ -2189,7 +2185,7 @@
     },
     {
         "question": "Où est-il écrit que la terre s’ouvrit pour aider une femme ?",
-        "response": "Apocalypse 12:16"
+        "response": "Révélations 12:16"
     },
     {
         "question": "Où est-il écrit que la terre s’ouvrit pour engloutir des hommes ?",
@@ -2297,7 +2293,7 @@
     },
     {
         "question": "Quand exigera-t-on d’avoir un nombre, un nom ou une marque pour acheter et vendre  ?",
-        "response": "Apocalypse 13:17"
+        "response": "Révélations 13:17"
     },
     {
         "question": "Quel prophète fait allusion à des semailles de ceps de vigne et des plantations agréables, mais n’aboutissant à aucune récolte ?",
@@ -2401,7 +2397,7 @@
     },
     {
         "question": "Quelle ville a une forme cubique ?",
-        "response": "Apocalypse 21:16"
+        "response": "Révélations 21:16"
     },
     {
         "question": "Dans l’Ancien Testament (une seule fois) et dans le Nouveau (une seule fois), où trouve-t-on qu’une pierre fut scellée ?",
@@ -2417,7 +2413,7 @@
     },
     {
         "question": "Qui vit en vision un homme dont les pieds seulement étaient semblables à de l’airain ?",
-        "response": "Apocalypse 1:15"
+        "response": "Révélations 1:15"
     },
     {
         "question": "Quand est-ce que les armées d’Israël et Juda totalisèrent plus de 1.570.000 soldats ?",
@@ -2497,7 +2493,7 @@
     },
     {
         "question": "Dans quel chapitre du Nouveau Testament sont mentionnés des chevaux de quatre couleurs différentes ?",
-        "response": "Apocalypse 6:1-8"
+        "response": "Révélations 6:1-8"
     },
     {
         "question": "Qui offrit à un roi d’Israël 2000 chevaux, à condition qu’il puisse trouver des cavaliers pour les monter ?",
@@ -2516,12 +2512,8 @@
         "response": "Jonas 1:4-5 ; Marc 4:37-38"
     },
     {
-        "question": "Où voit-on notre Seigneur en train de lire ?",
+        "question": "Où voit-on Jésus en train de lire ?",
         "response": "Luc 4:16"
-    },
-    {
-        "question": "Où voit-on notre Seigneur en train d’écrire ?",
-        "response": "Jean 8:6"
     },
     {
         "question": "Qui désirait intensément que ses propres paroles soient écrites, et inscrites dans un livre ?",
@@ -2629,7 +2621,7 @@
     },
     {
         "question": "Où est-il parlé d’un combat dans le ciel se terminant par une grande victoire ?",
-        "response": "Apocalypse 12:7"
+        "response": "Révélations 12:7"
     },
     {
         "question": "Où est-il parlé de combats dans le ciel et des armes qui s’y utilisent ?",
@@ -2760,16 +2752,12 @@
         "response": "Juges 9:15"
     },
     {
-        "question": "Combien de fois notre Seigneur se présente-t-il Lui-même comme le dernier ?",
-        "response": "Apocalypse 1:17 ; 2:8 ; 22:13 (cf. aussi Ésaïe 48:12)"
-    },
-    {
         "question": "Quel prophète fut pour son peuple comme un « chant agréable » ?",
         "response": "Ézéchiel 33:32"
     },
     {
         "question": "Où est-ce que la voix d’un ange est comparée au rugissement d’un lion ?",
-        "response": "Apocalypse 10:3"
+        "response": "Révélations 10:3"
     },
     {
         "question": "Où est-ce que les faux prophètes sont comparés à des lions rugissants ?",
@@ -2833,7 +2821,7 @@
     },
     {
         "question": "Où est-ce que le Nouveau Testament dit de ne rien ajouter aux paroles de Dieu ?",
-        "response": "Apocalypse 22:13"
+        "response": "Révélations 22:13"
     },
     {
         "question": "Quel roi eut la tête coupée et clouée dans un temple d’idole ?",
@@ -2858,10 +2846,6 @@
     {
         "question": "Quand est-ce que des hommes perdirent la vie pour avoir mal prononcé un mot ?",
         "response": "Juges 12:5-6"
-    },
-    {
-        "question": "Quand notre Seigneur mangea-t-il du miel ?",
-        "response": "Luc 24:42-43"
     },
     {
         "question": "Qui apporta du miel en cadeau à son père et à sa mère ?",
@@ -2901,7 +2885,7 @@
     },
     {
         "question": "Qui a été compagnon d’esclavage d’un ange ?",
-        "response": "Apocalypse 22:9"
+        "response": "Révélations 22:9"
     },
     {
         "question": "Citer deux personnes appelées « compagnon de captivité » de l’apôtre Paul.",
@@ -3092,7 +3076,7 @@
         "response": "Marc 5:5"
     },
     {
-        "question": "Quand est-ce que notre Seigneur montra les véritables membres de la «Sainte Famille» ?",
+        "question": "Quand est-ce que Jésus montra les véritables membres de la «Sainte Famille» ?",
         "response": "Marc 3:31-35"
     },
     {
@@ -3129,7 +3113,7 @@
     },
     {
         "question": "Quel est le nom de la femme qui s’appelle elle-même prophétesse ?",
-        "response": "Apocalypse 2:20"
+        "response": "Révélations 2:20"
     },
     {
         "question": "Quel est le seul livre de la Bible adressé à une femme ?",
@@ -3153,7 +3137,7 @@
     },
     {
         "question": "Qui vit un ange ayant dans sa main un petit livre ouvert ?",
-        "response": "Apocalypse 10:1-2"
+        "response": "Révélations 10:1-2"
     },
     {
         "question": "Qui étouffa un roi avec une couverture mouillée ?",
@@ -3345,7 +3329,7 @@
     },
     {
         "question": "Trois fois de la joie au ciel dans le Nouveau Testament",
-        "response": "Luc 15:7 – Apoc. 18:20 & 19:1,7"
+        "response": "Luc 15:7 – Rév. 18:20 & 19:1,7"
     },
     {
         "question": "Quand a-t-on parlé en hébreu dans le ciel ?",
@@ -3361,7 +3345,7 @@
     },
     {
         "question": "Qui, le dernier, a vu le ciel ouvert ?",
-        "response": "Jean – Apoc.19:11"
+        "response": "Jean – Rév.19:11"
     },
     {
         "question": "Qui est entré dans le ciel ?",
@@ -3381,7 +3365,7 @@
     },
     {
         "question": "Quelle étoile nommée dans la Bible ne se trouve sur aucune carte du ciel ?",
-        "response": "Absinthe – Apoc. 8:11"
+        "response": "Absinthe – Rév. 8:11"
     },
     {
         "question": "Quel homme demanda à Dieu de le faire mourir, et Dieu refusa",
@@ -3396,7 +3380,7 @@
         "response": "Daniel 2:17,18"
     },
     {
-        "question": "Combien de fois le Seigneur est-il en prière dans l’évangile de Luc ?",
+        "question": "Combien de fois Jésus est-il en prière dans l’évangile de Luc ?",
         "response": "7 fois – Luc 3:21 ; 5:16 ; 6:12 ; 9:18,28 ; 11:1 ; 22:41"
     },
     {
@@ -3480,7 +3464,7 @@
         "response": "Onésiphore – 2 Tim. 1:16-18"
     },
     {
-        "question": "Quel service attendu de la part des veuves a également été accompli par le Seigneur ?",
+        "question": "Quel service attendu de la part des veuves a également été accompli par Jésus ?",
         "response": "Lavage des pieds – 1 Tim.5:10 & Jean 13"
     },
     {
