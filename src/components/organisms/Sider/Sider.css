@@ -14,27 +14,20 @@
     right: 0;
 }
 
-.Sider .Sider-icon {
-    transform: rotate(0deg);
-    transition: transform .33s ease-in-out;
-}
-
-.Sider.Sider--open .Sider-icon{
-    transform: rotate(180deg);
-}
-
 .Sider-toggleButton {
     position: absolute;
     top: 24px;
-    left: -20px;
-    background-color: white;
+    left: -36px;
+    background-color: #F22;
     padding: 4px;
-    border-radius: 5px;
+    border-radius: 5px 0 0 5px;
     cursor: pointer;
     height: 36px;
+    width: 36px;
     display: flex;
     align-items: center;
     box-shadow: -5px 5px 10px rgba(0,0,0,0.2);
+    z-index: 1;
 }
 
 .Sider .Sider-container {

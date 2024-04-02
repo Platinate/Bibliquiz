@@ -1,5 +1,5 @@
 import React from "react";
-import { DeleteOutlined, LeftOutlined } from "@ant-design/icons";
+import { BookFilled, DeleteOutlined } from "@ant-design/icons";
 
 import "./Sider.css";
 import { IQuestion } from "../../../models/questions";
@@ -16,7 +16,7 @@ const Sider: React.FC<IProps> = ({ questions, onQuestionClick, onDeleteBookmark 
   return (
     <div className={`Sider ${open ? "Sider--open" : ""}`}>
       <label className="Sider-toggleButton" htmlFor="toggle">
-        <LeftOutlined className="Sider-icon" />
+        <BookFilled className="Sider-icon" />
       </label>
       <input
         style={{ display: "none" }}

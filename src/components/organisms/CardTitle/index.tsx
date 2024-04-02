@@ -13,7 +13,7 @@ const CardTitle: React.FC<IProps> = ({ header, onQuestionBookmarkClick }) => {
   return (
     <div className="CardTitle">
       {header}
-      <Button onClick={onQuestionBookmarkClick} icon={<BookFilled/>}/>
+      <Button type="primary" onClick={onQuestionBookmarkClick} icon={<BookFilled/>}/>
     </div>
   );
 };
