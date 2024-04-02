@@ -1,0 +1,73 @@
+.Sider {
+    position: absolute;
+    height: 100%;
+    width: 320px;
+    background-color: white;
+    top: 0;
+    right: -320px;
+    box-shadow: -5px 0 10px rgba(0,0,0,0.2);
+    transition: right .33s ease-in-out;
+    z-index: 999;
+}
+
+.Sider.Sider--open {
+    right: 0;
+}
+
+.Sider .Sider-icon {
+    transform: rotate(0deg);
+    transition: transform .33s ease-in-out;
+}
+
+.Sider.Sider--open .Sider-icon{
+    transform: rotate(180deg);
+}
+
+.Sider-toggleButton {
+    position: absolute;
+    top: 24px;
+    left: -20px;
+    background-color: white;
+    padding: 4px;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    box-shadow: -5px 5px 10px rgba(0,0,0,0.2);
+}
+
+.Sider .Sider-container {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px;
+}
+
+.Sider .Sider-container .Sider-item {
+    padding: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Sider .Sider-container .Sider-item p {
+    background-color: #FFF;
+    cursor: pointer;
+    transition: background-color .33s ease-in-out;
+    flex: 60%;
+    margin: 0 4px;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.Sider .Sider-container .Sider-item .ant-button {
+    flex: 1;
+}
+
+.Sider .Sider-container .Sider-item p:hover {
+    background-color: #EEE;
+}
+
+.Sider .Sider-container .Sider-item + .Sider-item {
+    margin-top: 8px;
+    border-top: 1px solid lightgray;
+}
